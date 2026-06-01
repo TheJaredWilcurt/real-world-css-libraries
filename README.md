@@ -62,7 +62,9 @@ Library                                                                         
 [98](https://github.com/jdan/98.css/blob/main/style.css)                              | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css)  | MIT
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css)           | Hippocratic License v2.1
+[Animsition](https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css) | MIT
 [Balloon](https://github.com/kazzkiq/balloon.css/blob/master/balloon.css)             | MIT
+[Basscss](https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css)        | MIT
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css)                        | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css)                   | MIT
 [Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2)                  | MIT
@@ -73,6 +75,7 @@ Library                                                                         
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css)           | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css)                       | MIT
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css)       | MIT
+[Devices.css](https://unpkg.com/devices.css@0.2.0/dist/devices.css)                   | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css)            | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0)         | MIT
@@ -80,6 +83,8 @@ Library                                                                         
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css)         | MIT
+[Hint](https://github.com/chinchang/hint.css/blob/master/hint.css)                    | MIT
+[Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css)      | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
@@ -108,6 +113,8 @@ Library                                                                         
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css)         | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css)              | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css)        | MIT
+[Spicetify Dribbblish](https://github.com/spicetify/spicetify-themes/blob/master/Dribbblish/user.css) | MIT
+[Spicetify Text](https://github.com/spicetify/spicetify-themes/blob/master/text/user.css) | MIT
 [Spinkit](https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css)             | MIT
 [Stacks](https://unpkg.com/@stackoverflow/stacks@2.8.6/dist/css/stacks.css)           | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css)       | MIT
@@ -115,5 +122,7 @@ Library                                                                         
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css)                                  | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css)            | MIT
 [UIKit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css)               | MIT
-[USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css)                     | Public Domain
+[USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css)                     | CC0 1.0
+[VitePress](https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css) | MIT
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css)               | MIT
+[Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css)         | MIT

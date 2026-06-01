@@ -13,6 +13,7 @@ const nameMap = {
   fomantic: 'Fomantic UI',
   'github-dark': 'GitHub-Dark',
   'github-markdown': 'GitHub-Markdown',
+  instagram: 'Instagram.css',
   minireset: 'Mini Reset',
   'modern-css-resets': 'Modern CSS Resets',
   mvp: 'MVP',
@@ -20,7 +21,8 @@ const nameMap = {
   patternfly: 'PatternFly',
   semantic: 'Semantic UI',
   uikit: 'UIkit',
-  uswds: 'USWDS'
+  uswds: 'USWDS',
+  vitepress: 'VitePress'
 };
 const nameLicenseMap = {
   '960.gs': 'MIT or GPL',
@@ -32,7 +34,7 @@ const nameLicenseMap = {
   remedy: 'MPL-2.0',
   'remedy-quotes': 'MPL-2.0',
   sanitize: 'CC0 1.0',
-  uswds: 'Public Domain'
+  uswds: 'CC0 1.0'
 };
 
 function titleCase (value) {
