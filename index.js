@@ -8,15 +8,18 @@ const __dirname = import.meta.dirname;
 
 const nameMap = {
   'admin-lte': 'AdminLTE',
-  'fomantic': 'Fomantic UI',
-  'mvp': 'MVP',
-  'uikit': 'UIkit',
-  'uswds': 'USWDS'
+  beercss: 'Beer CSS',
+  fomantic: 'Fomantic UI',
+  mvp: 'MVP',
+  nes: 'NES.css',
+  patternfly: 'PatternFly',
+  uikit: 'UIkit',
+  uswds: 'USWDS'
 };
 const nameLicenseMap = {
   '960.gs': 'MIT or GPL',
   animate: 'Hippocratic License v2.1',
-  carbon: 'Apache-2.0',
+  carbon: 'Apache 2.0',
   'github-dark': 'BSD 2 Clause',
   meyer: 'Public Domain',
   pure: 'BSD',

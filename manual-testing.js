@@ -12,4 +12,6 @@ const libraries = getRealWorldCSS()
   });
 
 console.table(libraries);
-console.log('TOTAL: ' + total.toLocaleString() + ' bytes');
+const bytes = total.toLocaleString();
+const MB = Math.round((total / 1024 / 1024) * 100) / 100;
+console.log('TOTAL: ' + bytes + ' bytes or ' + MB + ' MB.');
