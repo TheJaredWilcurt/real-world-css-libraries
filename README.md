@@ -55,6 +55,7 @@ Library | License
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
+[Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
 [Tailwind 2](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 
