@@ -117,6 +117,7 @@ Library                                                                         
 [Spicetify Text](https://github.com/spicetify/spicetify-themes/blob/master/text/user.css) | MIT
 [Spinkit](https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css)             | MIT
 [Stacks](https://unpkg.com/@stackoverflow/stacks@2.8.6/dist/css/stacks.css)           | MIT
+[System](https://github.com/sakofchit/system.css/blob/main/style.css)                 | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css)       | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css)                    | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css)                                  | MIT
@@ -124,5 +125,6 @@ Library                                                                         
 [UIKit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css)               | MIT
 [USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css)                     | CC0 1.0
 [VitePress](https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css) | MIT
+[Voxels](https://github.com/HunterLarco/voxel.css/blob/master/src/voxel.css)          | MIT
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css)               | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css)         | MIT
