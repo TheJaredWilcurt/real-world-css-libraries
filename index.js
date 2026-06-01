@@ -15,8 +15,14 @@ function titleCase (value) {
     .join(' ');
 }
 function getName (file) {
-  return file
-    .split('-v')[0];
+  return file.split('-v')[0];
+}
+function getFullName (file) {
+  const name = getName(file);
+  const nameMap = {
+    'admin-lte': 'AdminLTE'
+  };
+  return nameMap[name] || titleCase(name);
 }
 function getVersion (file) {
   return 'v' + file
@@ -28,12 +34,12 @@ function getLicences (file) {
   const nameLicenseMap = {
     '960.gs': 'MIT or GPL',
     animate: 'Hippocratic License v2.1',
+    'github-dark': 'BSD 2 Clause',
     meyer: 'Public Domain',
     pure: 'BSD'
   };
   return nameLicenseMap[name] || 'MIT';
 }
-
 
 export default function () {
   const libs = join(__dirname, 'libs');
@@ -42,10 +48,10 @@ export default function () {
   for (const library of libraries) {
     const source = String(readFileSync(join(libs, library)));
     output.push({
-      file: library,
+      library: getFullName(library),
       version: getVersion(library),
-      library: titleCase(getName(library)),
-      licence: getLicences(library),
+      license: getLicences(library),
+      file: library,
       source,
       size: source.length
     });
