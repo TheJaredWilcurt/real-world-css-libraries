@@ -1,6 +1,7 @@
 import {
   readdirSync,
-  readFileSync
+  readFileSync,
+  statSync
 } from 'node:fs';
 import { join } from 'node:path';
 
@@ -56,14 +57,14 @@ export default function () {
   const libraries = readdirSync(libs);
   const output = [];
   for (const library of libraries) {
-    const source = String(readFileSync(join(libs, library)));
+    const filePath = join(libs, library);
+    const source = String(readFileSync(filePath));
     output.push({
-      library: getFullName(library),
+      name: getFullName(library),
       version: getVersion(library),
       license: getLicences(library),
-      file: library,
       source,
-      size: source.length
+      size: statSync(filePath).size
     });
   }
   return output;

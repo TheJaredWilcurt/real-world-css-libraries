@@ -4,11 +4,13 @@ Repository of unminified, real-world, CSS files from open source projects.
 
 For use in minification tests.
 
-You can `npm i --save-dev real-world-css-libraries` to have a local copy
-of these libraries to use. There is also a synchronous function to run to
-get all the data in an array of objects.
+
+## Usage
+
+`npm i -D real-world-css-libraries`
 
 ```js
+// Import the synchronous function
 import getRealWorldCSS from 'real-world-css-libraries';
 
 let libraries = [];
@@ -23,17 +25,15 @@ console.log(libraries);
 /*
  * [
  *   {
- *     file: '960.gs-v1.0.0.css',
+ *     name: '960.gs',
  *     version: 'v1.0.0',
- *     library: '960.gs',
  *     license: 'MIT or GPL',
  *     source: '/*\n  960 Grid System ~ Core CSS.\n  Learn more ~ http://9...',
  *     size: 9989
  *   },
  *   {
- *     file: 'animate-v4.1.1.css',
+ *     name: 'Animate',
  *     version: 'v4.1.1',
- *     library: 'Animate',
  *     license: 'Hippocratic License v2.1'
  *     source: '@charset "UTF-8";\n/*!\n * animate.css - https://animate.s...',
  *     size: 95377
@@ -41,7 +41,20 @@ console.log(libraries);
  *   ...
  * ]
  */
+
+// Example: If you only wanted the names of libraries that use MIT License:
+const namesOfLibrariesCompatibleWithMITLicense = libraries
+  .filter((library) => {
+    return library.license.includes('MIT');
+  })
+  .map((library) => {
+    return library.name;
+  });
+console.log(namesOfLibrariesCompatibleWithMITLicense);
+// ['960.gs', '98', 'AdminLTE', ...]
 ```
+
+## Libraries included:
 
 Library                                                                               | License
 :--                                                                                   | :--
@@ -51,6 +64,7 @@ Library                                                                         
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css)           | Hippocratic License v2.1
 [Balloon](https://github.com/kazzkiq/balloon.css/blob/master/balloon.css)             | MIT
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css)                        | MIT
+[Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css)                   | MIT
 [Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2)                  | MIT
 [Bootstrap 5](https://github.com/twbs/bootstrap/releases/tag/v5.3.8)                  | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css)                      | MIT
@@ -63,6 +77,7 @@ Library                                                                         
 [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0)         | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0)      | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
+[Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css)         | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css)      | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
@@ -71,6 +86,7 @@ Library                                                                         
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css)                                | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)       | MIT
+[Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css)                         | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css)           | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css)            | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css)                        | MIT
@@ -87,6 +103,7 @@ Library                                                                         
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css)       | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css)                    | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css)                                  | MIT
+[Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css)            | MIT
 [UIKit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css)               | MIT
 [USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css)                     | Public Domain
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css)               | MIT
