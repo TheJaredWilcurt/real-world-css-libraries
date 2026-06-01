@@ -53,15 +53,20 @@ Library                                                                         
 [Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2)                  | MIT
 [Bootstrap 5](https://github.com/twbs/bootstrap/releases/tag/v5.3.8)                  | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css)                      | MIT
+[Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css)                     | Apache-2.0
+[Chota](https://github.com/jenil/chota/blob/main/dist/chota.css)                      | MIT
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css)       | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css)            | MIT
+[Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0)         | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0)      | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css)      | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
+[MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css)                          | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css)       | MIT
+[Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)       | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css)            | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css)                        | MIT
@@ -69,9 +74,13 @@ Library                                                                         
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css)                     | BSD
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css)           | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css)                   | MIT
+[Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css)                | MIT
+[Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css)         | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css)              | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css)        | MIT
 [Spinkit](https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css)             | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css)       | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css)                    | MIT
+[UIKit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css)               | MIT
+[USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css)                     | Public Domain
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css)               | MIT

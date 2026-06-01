@@ -6,6 +6,23 @@ import { join } from 'node:path';
 
 const __dirname = import.meta.dirname;
 
+const nameMap = {
+  'admin-lte': 'AdminLTE',
+  'fomantic': 'Fomantic UI',
+  'mvp': 'MVP',
+  'uikit': 'UIkit',
+  'uswds': 'USWDS'
+};
+const nameLicenseMap = {
+  '960.gs': 'MIT or GPL',
+  animate: 'Hippocratic License v2.1',
+  carbon: 'Apache-2.0',
+  'github-dark': 'BSD 2 Clause',
+  meyer: 'Public Domain',
+  pure: 'BSD',
+  uswds: 'Public Domain'
+};
+
 function titleCase (value) {
   return value
     .split('-')
@@ -19,9 +36,6 @@ function getName (file) {
 }
 function getFullName (file) {
   const name = getName(file);
-  const nameMap = {
-    'admin-lte': 'AdminLTE'
-  };
   return nameMap[name] || titleCase(name);
 }
 function getVersion (file) {
@@ -31,13 +45,6 @@ function getVersion (file) {
 }
 function getLicences (file) {
   const name = getName(file);
-  const nameLicenseMap = {
-    '960.gs': 'MIT or GPL',
-    animate: 'Hippocratic License v2.1',
-    'github-dark': 'BSD 2 Clause',
-    meyer: 'Public Domain',
-    pure: 'BSD'
-  };
   return nameLicenseMap[name] || 'MIT';
 }
 
