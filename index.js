@@ -11,9 +11,14 @@ const nameMap = {
   'admin-lte': 'AdminLTE',
   beercss: 'Beer CSS',
   fomantic: 'Fomantic UI',
+  'github-dark': 'GitHub-Dark',
+  'github-markdown': 'GitHub-Markdown',
+  minireset: 'Mini Reset',
+  'modern-css-resets': 'Modern CSS Resets',
   mvp: 'MVP',
   nes: 'NES.css',
   patternfly: 'PatternFly',
+  semantic: 'Semantic UI',
   uikit: 'UIkit',
   uswds: 'USWDS'
 };
@@ -24,6 +29,9 @@ const nameLicenseMap = {
   'github-dark': 'BSD 2 Clause',
   meyer: 'Public Domain',
   pure: 'BSD',
+  remedy: 'MPL-2.0',
+  'remedy-quotes': 'MPL-2.0',
+  sanitize: 'CC0 1.0',
   uswds: 'Public Domain'
 };
 

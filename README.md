@@ -71,18 +71,22 @@ Library                                                                         
 [Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css)                     | Apache 2.0
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css)                      | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css)           | MIT
+[Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css)                       | MIT
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css)       | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css)            | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [FontAwesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0)         | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0)      | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
+[GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css)         | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css)      | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
 [MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css)                          | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css)       | MIT
+[Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css)                     | MIT
+[Modern CSS Reset](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css)                                | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)       | MIT
@@ -93,8 +97,14 @@ Library                                                                         
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css)           | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css)                     | BSD
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css)           | MIT
+[Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css)          | MPL-2.0
+[Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css)   | MPL-2.0
+[Responsive 4](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
+[Responsive 5](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css)                   | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css)                | MIT
+[Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css)           | CC0 1.0
+[Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css)         | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css)              | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css)        | MIT
