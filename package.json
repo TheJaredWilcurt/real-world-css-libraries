@@ -1,0 +1,27 @@
+{
+  "name": "real-world-css-libraries",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://github.com/TheJaredWilcurt/real-world-css-libraries#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJaredWilcurt/real-world-css-libraries.git"
+  },
+  "license": "MIT",
+  "author": "The Jared Wilcurt",
+  "description": "Unminified, real-world, CSS files from open source projects.",
+  "bugs": {
+    "url": "https://github.com/TheJaredWilcurt/real-world-css-libraries/issues"
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "26.2.0"
+    },
+    "packageManager": {
+      "name": "npm",
+      "version": "11.13.0"
+    }
+  }
+}

@@ -5,7 +5,41 @@ Repository of unminified, real-world, CSS files from open source projects.
 For use in minification tests.
 
 You can `npm i --save-dev real-world-css-libraries` to have a local copy
-of these libraries to use.
+of these libraries to use. There is also a synchronous function to run to
+get all the data in an array of objects.
+
+```js
+import getRealWorldCSS from 'real-world-css-libraries';
+
+let libraries = [];
+try {
+  libraries = getRealWorldCSS();
+} catch (error) {
+  console.log('Failed to read the CSS files.');
+  console.log(error);
+}
+
+console.log(libraries);
+/*
+ * [
+ *   {
+ *     file: '960.gs-v1.0.0.css',
+ *     version: 'v1.0.0',
+ *     library: '960.gs',
+ *     source: '/*\n  960 Grid System ~ Core CSS.\n  Learn more ~ http://9...',
+ *     size: 9989
+ *   },
+ *   {
+ *     file: 'animate-v4.1.1.css',
+ *     version: 'v4.1.1',
+ *     library: 'Animate',
+ *     source: '@charset "UTF-8";\n/*!\n * animate.css - https://animate.s...',
+ *     size: 95377
+ *   },
+ *   ...
+ * ]
+ */
+```
 
 Library | License
 :--     | :--
