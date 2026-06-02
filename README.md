@@ -70,6 +70,7 @@ Library                                                                         
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css)                   | MIT
 [Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2)                  | MIT
 [Bootstrap 5](https://github.com/twbs/bootstrap/releases/tag/v5.3.8)                  | MIT
+[Bttn](https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css)              | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css)                      | MIT
 [Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css)                     | Apache 2.0
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css)                      | MIT
