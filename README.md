@@ -63,6 +63,7 @@ console.log(namesOfLibrariesCompatibleWithMITLicense);
    * `[Slash][Asterisk][Space][URL_TO_SOURCE][Space][Asterisk][Slash][New line]`
    * **Example:**
       * `/* https://github.com/user/repo/tree/main/file.css */`
+1. The last line of the CSS file must be a `/n` (new line character).
 1. If the source does not use MIT license, update the `nameLicenseMap` in `index.js`.
 1. Run `npm t`, this will preview the output and update the list of libraries in the `README.md`
    * If the new library's name needs correcting (like `Mycssrepo` should be `My CSS Repo`), update `nameMap` in `index.js` and run `npm t` again.
@@ -107,11 +108,13 @@ Library | License
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
 [Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
+[CSS3 Buttons](https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css) | MIT
 [cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0-1.0
 [Cutestrap1](https://github.com/tylerchilds/cutestrap/blob/v1.3.1/dist/css/cutestrap.css) | MIT
 [Cutestrap2](https://github.com/tylerchilds/cutestrap/blob/master/dist/css/cutestrap.css) | GPL-3.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css) | MIT
 [Devices](https://unpkg.com/devices.css@0.2.0/dist/devices.css) | MIT
+[Doxygen Awesome](https://github.com/jothepro/doxygen-awesome-css/blob/main/doxygen-awesome.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
 [ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
 [Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
@@ -120,6 +123,7 @@ Library | License
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
+[Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
 [Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css) | MIT
@@ -127,8 +131,10 @@ Library | License
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
+[markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/reset.css) | Public Domain
+[Microtip](https://github.com/ghosh/microtip/blob/master/microtip.css) | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css) | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
 [Mobi](https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css) | MIT
@@ -141,9 +147,11 @@ Library | License
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css) | MIT
+[Pesticide](https://github.com/mrmrs/pesticide/blob/main/css/pesticide.css) | MIT
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css) | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css) | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css) | MIT
+[Pills](https://github.com/rohitkrai03/pills/blob/gh-pages/dist/pills.css) | MIT
 [Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
