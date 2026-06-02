@@ -93,12 +93,14 @@ Library | License
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
-[CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
+[CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL 2.0
 [cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0 1.0
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC BY-NC-SA 1.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css) | MIT
 [Devices](https://unpkg.com/devices.css@0.2.0/dist/devices.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
+[ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
+[Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0) | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
@@ -121,22 +123,26 @@ Library | License
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css) | MIT
+[Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL 3.0
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css) | MIT
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css) | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css) | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css) | MIT
+[Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
-[Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
-[Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
+[Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL 2.0
+[Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL 2.0
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
 [Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0 1.0
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
+[Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
+[Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css) | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | MIT
