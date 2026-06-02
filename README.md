@@ -78,6 +78,7 @@ Library | License
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css) | Hippocratic License v2.1
 [Animo](https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css) | MIT
 [Animsition](https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css) | MIT
+[Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox/blob/master/awesome-bootstrap-checkbox.css) | MIT
 [Balloon](https://github.com/kazzkiq/balloon.css/blob/master/balloon.css) | MIT
 [Basscss](https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css) | MIT
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css) | MIT
@@ -91,8 +92,10 @@ Library | License
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css) | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
+[cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
 [cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0 1.0
+[CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC BY-NC-SA 1.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css) | MIT
 [Devices](https://unpkg.com/devices.css@0.2.0/dist/devices.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
@@ -145,6 +148,7 @@ Library | License
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css) | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
 [The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
+[Toast](https://github.com/daneden/Toast/blob/master/css/grid.css) | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
 [UIkit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css) | MIT
@@ -154,4 +158,5 @@ Library | License
 [Water](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css) | MIT
 [Webgradients](https://github.com/itmeo/webgradients/blob/master/webgradients.css) | MIT
+[Wing](https://github.com/kbrsh/wing/blob/master/dist/wing.css) | MIT
 [WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css) | MIT
