@@ -75,6 +75,7 @@ These libraries were explicitly not included because they lack a compatible lice
 * https://github.com/cyanharlow/purecss-francine/issues/63
 * https://github.com/datguypiko/Firefox-Mod-Blur/issues/238
 * https://github.com/pattle/simpsons-in-css/issues/3
+* https://github.com/soulwire/Makisu/pull/23
 
 
 ## Libraries included:
