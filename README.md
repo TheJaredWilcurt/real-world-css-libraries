@@ -74,6 +74,8 @@ Library                                                                         
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css)                      | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css)           | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css)                       | MIT
+[CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
+[CSS Icon](https://github.com/wentin/cssicon/tree/master/css)                         | CC0 1.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css)       | MIT
 [Devices.css](https://unpkg.com/devices.css@0.2.0/dist/devices.css)                   | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css)            | MIT
@@ -83,15 +85,17 @@ Library                                                                         
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css)         | MIT
+[Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css)       | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css)                    | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css)      | MIT
+[Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
-[MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css)                          | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css)       | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css)                     | MIT
 [Modern CSS Reset](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
+[MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css)                          | MIT
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css)                                | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)       | MIT
