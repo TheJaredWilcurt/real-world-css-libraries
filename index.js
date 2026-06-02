@@ -26,6 +26,7 @@ const nameMap = {
   'github-dark': 'GitHub-Dark',
   'github-markdown': 'GitHub-Markdown',
   'github-windows': 'GitHub-Windows',
+  'google-type': 'google-type',
   'html-sheets-of-paper': 'HTML Sheets of Paper',
   instagram: 'Instagram.css',
   'material-for-bootstrap': 'Material for Bootstrap',

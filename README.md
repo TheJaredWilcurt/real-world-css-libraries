@@ -75,14 +75,13 @@ These libraries were explicitly not included because they lack a compatible lice
 
 * https://github.com/cyanharlow/purecss-francine/issues/63
 * https://github.com/datguypiko/Firefox-Mod-Blur/issues/238
-* https://github.com/femmebot/google-type/issues/60
 * https://github.com/pattle/simpsons-in-css/issues/3
 * https://github.com/soulwire/Makisu/pull/23
 
 
 ## Libraries included:
 
-There are **125** files totaling **32.48MB** of unminified CSS.
+There are **126** files totaling **32.53MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -132,6 +131,7 @@ Library | License
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [GitHub-Windows](https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css) | MIT
+[google-type](https://github.com/femmebot/google-type/blob/master/css/google-type.css) | MIT
 [Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
 [Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
