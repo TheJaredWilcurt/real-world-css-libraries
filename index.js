@@ -10,6 +10,7 @@ const __dirname = import.meta.dirname;
 const nameMap = {
   'admin-lte': 'AdminLTE',
   beercss: 'Beer CSS',
+  'blue-topaz-obsidian': 'Blue-Topaz Obsidian',
   crookedstylesheets: 'CrookedStyleSheets',
   'cs16': 'cs16.css',
   'css-diner': 'CSS Diner',
@@ -34,21 +35,25 @@ const nameMap = {
   vitepress: 'VitePress',
   'wtf-forms': 'WTF Forms'
 };
+// Prefer keywords listed here:
+// https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type
 const nameLicenseMap = {
-  '960.gs': 'MIT or GPL',
-  animate: 'Hippocratic License v2.1',
-  carbon: 'Apache 2.0',
-  'css-diner': 'MPL 2.0',
-  cssicon: 'CC0 1.0',
-  'csszengarden-215': 'CC BY-NC-SA 1.0',
+  '960.gs': 'GPL-3.0 or MIT',
+  animate: 'Hippocratic-2.1',
+  carbon: 'Apache-2.0',
+  'css-diner': 'MPL-2.0',
+  cssicon: 'CC0-1.0',
+  'csszengarden-215': 'CC-BY-NC-SA-1.0',
+  cutestrap1: 'MIT',
+  cutestrap2: 'GPL-3.0',
   'github-dark': 'BSD 2 Clause',
   meyer: 'Public Domain',
-  'obsidian-modular-css-layout': 'GPL 3.0',
+  'obsidian-modular-css-layout': 'GPL-3.0',
   pure: 'BSD',
-  remedy: 'MPL 2.0',
-  'remedy-quotes': 'MPL 2.0',
-  sanitize: 'CC0 1.0',
-  uswds: 'CC0 1.0'
+  remedy: 'MPL-2.0',
+  'remedy-quotes': 'MPL-2.0',
+  sanitize: 'CC0-1.0',
+  uswds: 'CC0-1.0'
 };
 
 function getName (file) {

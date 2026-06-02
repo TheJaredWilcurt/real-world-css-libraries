@@ -81,30 +81,34 @@ These libraries were explicitly not included because they lack a compatible lice
 
 Library | License
 :--     | :--
-[960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | MIT or GPL
+[960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | GPL-3.0 or MIT
 [98](https://github.com/jdan/98.css/blob/main/style.css) | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css) | MIT
-[Animate](https://github.com/animate-css/animate.css/blob/main/animate.css) | Hippocratic License v2.1
+[Animate](https://github.com/animate-css/animate.css/blob/main/animate.css) | Hippocratic-2.1
 [Animo](https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css) | MIT
 [Animsition](https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css) | MIT
 [Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox/blob/master/awesome-bootstrap-checkbox.css) | MIT
 [Balloon](https://github.com/kazzkiq/balloon.css/blob/master/balloon.css) | MIT
 [Basscss](https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css) | MIT
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css) | MIT
+[Blue-Topaz Obsidian](https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css) | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css) | MIT
 [Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v4.6.2) | MIT
 [Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v5.3.8) | MIT
 [Bttn](https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css) | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css) | MIT
-[Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css) | Apache 2.0
+[Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css) | Apache-2.0
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css) | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css) | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
-[CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL 2.0
-[CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC BY-NC-SA 1.0
-[cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0 1.0
+[CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
+[Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
+[CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
+[cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0-1.0
+[Cutestrap1](https://github.com/tylerchilds/cutestrap/blob/v1.3.1/dist/css/cutestrap.css) | MIT
+[Cutestrap2](https://github.com/tylerchilds/cutestrap/blob/master/dist/css/cutestrap.css) | GPL-3.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css) | MIT
 [Devices](https://unpkg.com/devices.css@0.2.0/dist/devices.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
@@ -132,23 +136,24 @@ Library | License
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css) | MIT
-[Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL 3.0
+[Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL-3.0
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css) | MIT
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css) | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css) | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css) | MIT
+[Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
-[Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL 2.0
-[Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL 2.0
+[Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
+[Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
-[Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0 1.0
+[Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0-1.0
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
@@ -167,8 +172,9 @@ Library | License
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
 [UIkit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css) | MIT
-[USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css) | CC0 1.0
+[USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css) | CC0-1.0
 [VitePress](https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css) | MIT
+[Vivify](https://github.com/Martz90/vivify/blob/master/vivify.css) | MIT
 [Voxels](https://github.com/HunterLarco/voxel.css/blob/master/src/voxel.css) | MIT
 [Water](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css) | MIT
