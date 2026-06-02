@@ -68,6 +68,15 @@ console.log(namesOfLibrariesCompatibleWithMITLicense);
    * If the new library's name needs correcting (like `Mycssrepo` should be `My CSS Repo`), update `nameMap` in `index.js` and run `npm t` again.
 
 
+## Skipped Libraries
+
+These libraries were explicitly not included because they lack a compatible license. Issues have been created for them to add a license, if they do in the future, they can be included in this repo.
+
+* https://github.com/cyanharlow/purecss-francine/issues/63
+* https://github.com/datguypiko/Firefox-Mod-Blur/issues/238
+* https://github.com/pattle/simpsons-in-css/issues/3
+
+
 ## Libraries included:
 
 Library | License
