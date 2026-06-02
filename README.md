@@ -81,6 +81,8 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
+There are 110 files totaling 26.38MB of unminified CSS.
+
 Library | License
 :--     | :--
 [960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | GPL-3.0 or MIT
@@ -128,6 +130,7 @@ Library | License
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css) | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css) | MIT
+[HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
@@ -163,6 +166,7 @@ Library | License
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
 [Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0-1.0
+[Select](https://github.com/filamentgroup/select-css/blob/master/src/select-css.css) | MIT
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
@@ -181,6 +185,7 @@ Library | License
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
 [UIkit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css) | MIT
+[Universal.css](https://raw.githubusercontent.com/marmelab/universal.css/refs/heads/master/universal.css) | WTFPL
 [USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css) | CC0-1.0
 [VitePress](https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css) | MIT
 [Vivify](https://github.com/Martz90/vivify/blob/master/vivify.css) | MIT

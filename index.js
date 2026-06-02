@@ -21,6 +21,7 @@ const nameMap = {
   fomantic: 'Fomantic UI',
   'github-dark': 'GitHub-Dark',
   'github-markdown': 'GitHub-Markdown',
+  'html-sheets-of-paper': 'HTML Sheets of Paper',
   instagram: 'Instagram.css',
   'material-for-bootstrap': 'Material for Bootstrap',
   'markdown-css': 'markdown-css',
@@ -33,6 +34,7 @@ const nameMap = {
   semantic: 'Semantic UI',
   'the-new-css-reset': 'The New CSS Reset',
   uikit: 'UIkit',
+  universal: 'Universal.css',
   uswds: 'USWDS',
   vitepress: 'VitePress',
   'wtf-forms': 'WTF Forms'
@@ -55,6 +57,7 @@ const nameLicenseMap = {
   remedy: 'MPL-2.0',
   'remedy-quotes': 'MPL-2.0',
   sanitize: 'CC0-1.0',
+  universal: 'WTFPL',
   uswds: 'CC0-1.0'
 };
 

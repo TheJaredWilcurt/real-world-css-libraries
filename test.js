@@ -8,14 +8,24 @@ import getRealWorldCSS from './index.js';
 
 const __dirname = import.meta.dirname;
 
-function printTableAndTotal () {
+function getSize (libraries) {
   let total = 0;
+  libraries.forEach((library) => {
+    total = total + library.size;
+  });
+  return {
+    bytes: total.toLocaleString(),
+    MB: Math.round((total / 1024 / 1024) * 100) / 100
+  };
+}
+
+function printTableAndTotal () {
   const includeUrl = true;
 
   const libraries = getRealWorldCSS(includeUrl);
+  const { bytes, MB } = getSize(libraries);
   const table = libraries
     .map((library) => {
-      total = total + library.size;
       return {
         ...library,
         source: library.source.slice(0, 20),
@@ -24,19 +34,20 @@ function printTableAndTotal () {
     });
 
   console.table(table);
-  const bytes = total.toLocaleString();
-  const MB = Math.round((total / 1024 / 1024) * 100) / 100;
   console.log('TOTAL: ' + bytes + ' bytes or ' + MB + ' MB.');
   return libraries;
 }
 
 function updateReadme (libraries) {
+  const { MB } = getSize(libraries);
   const readmePath = join(__dirname, 'README.md');
   const readme = String(readFileSync(readmePath));
   const header = '## Libraries included:'
   const output = [
     readme.split('\n' + header)[0],
     header,
+    '',
+    'There are ' + libraries.length + ' files totaling ' + MB + 'MB of unminified CSS.',
     '',
     'Library | License',
     ':--     | :--'
