@@ -62,6 +62,7 @@ Library                                                                         
 [98](https://github.com/jdan/98.css/blob/main/style.css)                              | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css)  | MIT
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css)           | Hippocratic License v2.1
+[Animo](https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css)      | MIT
 [Animsition](https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css) | MIT
 [Balloon](https://github.com/kazzkiq/balloon.css/blob/master/balloon.css)             | MIT
 [Basscss](https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css)        | MIT
@@ -75,6 +76,7 @@ Library                                                                         
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css)           | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css)                       | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
+[CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css)         | MPL-2.0
 [CSS Icon](https://github.com/wentin/cssicon/tree/master/css)                         | CC0 1.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css)       | MIT
 [Devices.css](https://unpkg.com/devices.css@0.2.0/dist/devices.css)                   | MIT
@@ -84,6 +86,7 @@ Library                                                                         
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0)      | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
+[Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css)            | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css)         | MIT
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css)       | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css)                    | MIT
@@ -94,6 +97,7 @@ Library                                                                         
 [Meyer](https://meyerweb.com/eric/tools/css/reset/)                                   | Public Domain
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css)       | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css)                     | MIT
+[Mobi](https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css) | MIT
 [Modern CSS Reset](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
 [MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css)                          | MIT
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
@@ -101,6 +105,7 @@ Library                                                                         
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)       | MIT
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css)                         | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css)           | MIT
+[Paper](https://github.com/cognitom/paper-css/blob/master/paper.css)                  | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css)            | MIT
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css)                        | MIT
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css)           | MIT
@@ -124,6 +129,7 @@ Library                                                                         
 [System](https://github.com/sakofchit/system.css/blob/main/style.css)                 | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css)       | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css)                    | MIT
+[The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css)                                  | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css)            | MIT
 [UIKit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css)               | MIT
@@ -132,3 +138,5 @@ Library                                                                         
 [Voxels](https://github.com/HunterLarco/voxel.css/blob/master/src/voxel.css)          | MIT
 [Water.css](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css)               | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css)         | MIT
+[Webgradients](https://github.com/itmeo/webgradients/blob/master/webgradients.css)    | MIT
+[WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css)               | MIT

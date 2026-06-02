@@ -11,6 +11,7 @@ const nameMap = {
   'admin-lte': 'AdminLTE',
   beercss: 'Beer CSS',
   crookedstylesheets: 'CrookedStyleSheets',
+  'css-diner': 'CSS Diner',
   cssicon: 'cssicon',
   fomantic: 'Fomantic UI',
   'github-dark': 'GitHub-Dark',
@@ -23,14 +24,17 @@ const nameMap = {
   nes: 'NES.css',
   patternfly: 'PatternFly',
   semantic: 'Semantic UI',
+  'the-new-css-reset': 'The New CSS Reset',
   uikit: 'UIkit',
   uswds: 'USWDS',
-  vitepress: 'VitePress'
+  vitepress: 'VitePress',
+  'wtf-forms': 'WTF Forms'
 };
 const nameLicenseMap = {
   '960.gs': 'MIT or GPL',
   animate: 'Hippocratic License v2.1',
   carbon: 'Apache 2.0',
+  'css-diner': 'MPL-2.0',
   cssicon: 'CC0 1.0',
   'github-dark': 'BSD 2 Clause',
   meyer: 'Public Domain',
