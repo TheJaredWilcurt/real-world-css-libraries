@@ -41,9 +41,15 @@ function updateReadme (libraries) {
     'Library | License',
     ':--     | :--'
   ];
-  libraries.forEach((library) => {
-    output.push('[' + library.name + '](' + library.url + ') | ' + library.license);
-  });
+  libraries
+    .toSorted((a, b) => {
+      a = (a.name + a.version).toLowerCase();
+      b = (b.name + b.version).toLowerCase();
+      return (a > b) ? 1 : (a < b) ? -1 : 0;
+    })
+    .forEach((library) => {
+      output.push('[' + library.name + '](' + library.url + ') | ' + library.license);
+    });
   output.push('');
   writeFileSync(readmePath, output.join('\n'));
 }

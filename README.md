@@ -94,8 +94,8 @@ Library | License
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL 2.0
-[cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0 1.0
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC BY-NC-SA 1.0
+[cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0 1.0
 [Destyle](https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css) | MIT
 [Devices](https://unpkg.com/devices.css@0.2.0/dist/devices.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
@@ -115,8 +115,8 @@ Library | License
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/reset.css) | Public Domain
-[Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css) | MIT
+[Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
 [Mobi](https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css) | MIT
 [Modern CSS Resets](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
 [MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css) | MIT
