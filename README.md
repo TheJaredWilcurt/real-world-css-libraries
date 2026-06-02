@@ -27,14 +27,14 @@ console.log(libraries);
  *   {
  *     name: '960.gs',
  *     version: 'v1.0.0',
- *     license: 'MIT or GPL',
+ *     license: 'GPL-3.0 or MIT',
  *     source: '/*\n  960 Grid System ~ Core CSS.\n  Learn more ~ http://9...',
  *     size: 9989
  *   },
  *   {
  *     name: 'Animate',
  *     version: 'v4.1.1',
- *     license: 'Hippocratic License v2.1'
+ *     license: 'Hippocratic-2.1',
  *     source: '@charset "UTF-8";\n/*!\n * animate.css - https://animate.s...',
  *     size: 95377
  *   },
@@ -75,16 +75,18 @@ These libraries were explicitly not included because they lack a compatible lice
 
 * https://github.com/cyanharlow/purecss-francine/issues/63
 * https://github.com/datguypiko/Firefox-Mod-Blur/issues/238
+* https://github.com/femmebot/google-type/issues/60
 * https://github.com/pattle/simpsons-in-css/issues/3
 * https://github.com/soulwire/Makisu/pull/23
 
 
 ## Libraries included:
 
-There are **116** files totaling **31.2MB** of unminified CSS.
+There are **125** files totaling **32.48MB** of unminified CSS.
 
 Library | License
 :--     | :--
+[3D transforms](https://github.com/desandro/3dtransforms/blob/gh-pages/css/style.css) | MIT
 [960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | GPL-3.0 or MIT
 [98](https://github.com/jdan/98.css/blob/main/style.css) | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css) | MIT
@@ -111,6 +113,7 @@ Library | License
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
 [Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
+[css-extras](https://github.com/sindresorhus/css-extras/blob/main/index.css) | CC0-1.0 or MIT
 [CSS3 Buttons](https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css) | MIT
 [cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0-1.0
 [Cutestrap1](https://github.com/tylerchilds/cutestrap/blob/v1.3.1/dist/css/cutestrap.css) | MIT
@@ -128,6 +131,7 @@ Library | License
 [Gallery](https://github.com/benschwarz/gallery-css/blob/master/dist/gallery.prefixed.css) | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
+[GitHub-Windows](https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css) | MIT
 [Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
 [Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
@@ -136,6 +140,7 @@ Library | License
 [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
+[Load Awesome](https://labs.danielcardoso.net/load-awesome/assets/loaders.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
 [markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
@@ -150,6 +155,7 @@ Library | License
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css) | MIT
+[object-fit Polyfill](https://github.com/anselmh/object-fit/blob/master/dist/polyfill.object-fit.css) | MIT
 [Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL-3.0
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
@@ -166,6 +172,7 @@ Library | License
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
 [Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
 [Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
+[Repaintless](https://github.com/szynszyliszys/repaintless/blob/master/repaintless-css/repaintless.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
@@ -178,12 +185,15 @@ Library | License
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css) | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
+[SPCSS](https://github.com/susam/spcss/blob/main/sp.css) | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | MIT
 [Spicetify Dribbblish](https://github.com/spicetify/spicetify-themes/blob/master/Dribbblish/user.css) | MIT
 [Spicetify Text](https://github.com/spicetify/spicetify-themes/blob/master/text/user.css) | MIT
 [Spinkit](https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css) | MIT
+[Stackicons](https://github.com/parkerbennett/stackicons/blob/master/css/stackicons-social.css) | MIT
 [Stacks](https://unpkg.com/@stackoverflow/stacks@2.8.6/dist/css/stacks.css) | MIT
 [System](https://github.com/sakofchit/system.css/blob/main/style.css) | MIT
+[Tablecloth](https://github.com/bwsewell/tablecloth/blob/master/assets/css/tablecloth.css) | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css) | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
 [The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
