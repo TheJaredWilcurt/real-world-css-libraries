@@ -47,7 +47,7 @@ function updateReadme (libraries) {
     readme.split('\n' + header)[0],
     header,
     '',
-    'There are ' + libraries.length + ' files totaling ' + MB + 'MB of unminified CSS.',
+    'There are **' + libraries.length + '** files totaling **' + MB + 'MB** of unminified CSS.',
     '',
     'Library | License',
     ':--     | :--'

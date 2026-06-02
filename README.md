@@ -81,7 +81,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are 110 files totaling 26.38MB of unminified CSS.
+There are **116** files totaling **31.2MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -104,6 +104,7 @@ Library | License
 [Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css) | Apache-2.0
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css) | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css) | MIT
+[CodeFrame](https://github.com/codyhouse/codyframe/blob/main/main/css/style.css) | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
@@ -119,10 +120,12 @@ Library | License
 [Doxygen Awesome](https://github.com/jothepro/doxygen-awesome-css/blob/main/doxygen-awesome.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
 [ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
+[FF-Ultima](https://github.com/soulhotel/FF-ULTIMA/blob/main/theme/ffu-internal-appearance.css) | MPL-2.0
 [Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0) | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
+[Gallery](https://github.com/benschwarz/gallery-css/blob/master/dist/gallery.prefixed.css) | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
@@ -141,6 +144,7 @@ Library | License
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css) | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
 [Mobi](https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css) | MIT
+[Mocka](https://github.com/Chalarangelo/mocka/blob/master/dist/mocka.css) | MIT
 [Modern CSS Resets](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
 [MVP](https://github.com/andybrewer/mvp/blob/master/mvp.css) | MIT
 [Natural Selection](https://github.com/frontaid/natural-selection/blob/main/boilerplate.css) | MIT
@@ -158,12 +162,14 @@ Library | License
 [Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
+[Pygments Fruity](https://github.com/richleland/pygments-css/blob/master/fruity.css) | Unlicense
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
 [Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
 [Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
+[Ripple UI](https://unpkg.com/rippleui@1.12.1/dist/css/styles.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
 [Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0-1.0
 [Select](https://github.com/filamentgroup/select-css/blob/master/src/select-css.css) | MIT
