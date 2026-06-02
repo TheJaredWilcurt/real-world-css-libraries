@@ -92,7 +92,7 @@ function getUrlFromSource (source) {
 
 export default function (includeUrl) {
   const libsPath = join(__dirname, 'libs');
-  const fileNames = readdirSync(libsPath);
+  const fileNames = readdirSync(libsPath).sort();
   const libraries = [];
   for (const fileName of fileNames) {
     const filePath = join(libsPath, fileName);
