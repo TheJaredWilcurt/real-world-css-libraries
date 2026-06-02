@@ -45,18 +45,18 @@ const nameLicenseMap = {
   uswds: 'CC0 1.0'
 };
 
-function titleCase (value) {
-  return value
-    .split('-')
-    .map((word) => {
-      return word[0].toUpperCase() + word.slice(1);
-    })
-    .join(' ');
-}
 function getName (file) {
   return file.split('-v')[0];
 }
 function getFullName (file) {
+  function titleCase (value) {
+    return value
+      .split('-')
+      .map((word) => {
+        return word[0].toUpperCase() + word.slice(1);
+      })
+      .join(' ');
+  }
   const name = getName(file);
   return nameMap[name] || titleCase(name);
 }
@@ -69,21 +69,39 @@ function getLicences (file) {
   const name = getName(file);
   return nameLicenseMap[name] || 'MIT';
 }
+function getSource (filePath) {
+  return String(readFileSync(filePath));
+}
+function getSourceWithoutURL (source) {
+  return source
+    .split('*/\n')
+    .toSpliced(0, 1)
+    .join('');
+}
+function getUrlFromSource (source) {
+  return source
+   .replace('/* ', '')
+   .split(' */\n')[0];
+}
 
-export default function () {
-  const libs = join(__dirname, 'libs');
-  const libraries = readdirSync(libs);
-  const output = [];
-  for (const library of libraries) {
-    const filePath = join(libs, library);
-    const source = String(readFileSync(filePath));
-    output.push({
-      name: getFullName(library),
-      version: getVersion(library),
-      license: getLicences(library),
-      source,
+export default function (includeUrl) {
+  const libsPath = join(__dirname, 'libs');
+  const fileNames = readdirSync(libsPath);
+  const libraries = [];
+  for (const fileName of fileNames) {
+    const filePath = join(libsPath, fileName);
+    const sourceWithUrl = getSource(filePath);
+    const library = {
+      name: getFullName(fileName),
+      version: getVersion(fileName),
+      license: getLicences(fileName),
+      source: getSourceWithoutURL(sourceWithUrl),
       size: statSync(filePath).size
-    });
+    };
+    if (includeUrl) {
+      library.url = getUrlFromSource(sourceWithUrl);
+    }
+    libraries.push(library);
   }
-  return output;
+  return libraries;
 };
