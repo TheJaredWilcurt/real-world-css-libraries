@@ -82,7 +82,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **139** files totaling **33.06MB** of unminified CSS.
+There are **150** files totaling **33.31MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -99,14 +99,17 @@ Library | License
 [Basscss](https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css) | MIT
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css) | MIT
 [Blue-Topaz Obsidian](https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css) | MIT
+[Boilerform](https://github.com/Andy-set-studio/boilerform/blob/master/dist/css/boilerform.css) | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css) | MIT
 [Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v4.6.2) | MIT
 [Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v5.3.8) | MIT
 [Bttn](https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css) | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css) | MIT
 [Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css) | Apache-2.0
+[Cardinal](https://github.com/cardinalcss/cardinalcss/blob/master/cardinal.css) | MIT
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css) | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css) | MIT
+[Classless](https://github.com/DigitallyTailored/Classless.css/blob/main/classless.css) | MIT
 [CodeFrame](https://github.com/codyhouse/codyframe/blob/main/main/css/style.css) | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
@@ -118,6 +121,7 @@ Library | License
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
 [css-extras](https://github.com/sindresorhus/css-extras/blob/main/index.css) | CC0-1.0 or MIT
 [CSS3 Buttons](https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css) | MIT
+[CSSCO](https://github.com/laurenwaller/cssco/blob/master/cssco.css) | MIT
 [cssicon](https://github.com/wentin/cssicon/tree/master/css) | CC0-1.0
 [Cutestrap1](https://github.com/tylerchilds/cutestrap/blob/v1.3.1/dist/css/cutestrap.css) | MIT
 [Cutestrap2](https://github.com/tylerchilds/cutestrap/blob/master/dist/css/cutestrap.css) | GPL-3.0
@@ -126,8 +130,10 @@ Library | License
 [Doxygen Awesome](https://github.com/jothepro/doxygen-awesome-css/blob/main/doxygen-awesome.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
 [ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
+[Evil](https://github.com/tlrobinson/evil.css/blob/master/evil.css) | Public Domain
 [FF-Ultima](https://github.com/soulhotel/FF-ULTIMA/blob/main/theme/ffu-internal-appearance.css) | MPL-2.0
 [Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
+[Flex Layout Attribute](https://github.com/StefanKovac/flex-layout-attribute/blob/master/css/flex-layout-attribute.css) | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0) | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
@@ -145,10 +151,12 @@ Library | License
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css) | MIT
 [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
 [Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme/blob/master/static/css/style.default.css) | MIT
+[Icon Hover Effects](https://github.com/codrops/IconHoverEffects/blob/master/css/component.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Load Awesome](https://labs.danielcardoso.net/load-awesome/assets/loaders.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
+[Luxbar](https://github.com/balzss/luxbar/blob/master/build/luxbar.css) | MIT
 [markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/reset.css) | Public Domain
@@ -175,6 +183,7 @@ Library | License
 [Picnic](https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css) | MIT
 [Pico](https://github.com/picocss/pico/blob/main/css/pico.conditional.css) | MIT
 [Pills](https://github.com/rohitkrai03/pills/blob/gh-pages/dist/pills.css) | MIT
+[Portfolio Template](https://github.com/nisarhassan12/portfolio-template/blob/master/index.css) | GPL-3.0
 [Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD-3-Clause
@@ -183,6 +192,7 @@ Library | License
 [Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
 [Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
 [Repaintless](https://github.com/szynszyliszys/repaintless/blob/master/repaintless-css/repaintless.css) | MIT
+[Reset](https://github.com/Anurella/reset-css/blob/main/reset.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
 [Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
@@ -210,6 +220,7 @@ Library | License
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
 [The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
 [Toast](https://github.com/daneden/Toast/blob/master/css/grid.css) | MIT
+[Tooltip Twispy](https://github.com/HubSpot/tooltip/blob/master/dist/css/tooltip-theme-twipsy.css) | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
 [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css/blob/main/src/tw-animate.css) | MIT

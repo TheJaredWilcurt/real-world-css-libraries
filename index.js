@@ -19,6 +19,7 @@ const nameMap = {
   'css-diner': 'CSS Diner',
   'css-extras': 'css-extras',
   'css-spinners': 'CSS Spinners',
+  cssco: 'CSSCO',
   cssicon: 'cssicon',
   cssplot: 'CSS Plot',
   'csszengarden-215': 'CSS Zen Garden #215',
@@ -65,12 +66,14 @@ const nameLicenseMap = {
   'csszengarden-215': 'CC-BY-NC-SA-1.0',
   cutestrap1: 'MIT',
   cutestrap2: 'GPL-3.0',
+  evil: 'Public Domain',
   'ff-ultima': 'MPL-2.0',
   'github-dark': 'BSD-2-Clause',
   meyer: 'Public Domain',
   'microsoft-metro-buttons': 'CC-BY-3.0',
   missing: 'BSD-2-Clause',
   'obsidian-modular-css-layout': 'GPL-3.0',
+  'portfolio-template': 'GPL-3.0',
   pure: 'BSD-3-Clause',
   'pygments-fruity': 'Unlicense',
   remedy: 'MPL-2.0',
@@ -78,7 +81,8 @@ const nameLicenseMap = {
   sanitize: 'CC0-1.0',
   sierra: 'GPL-2.0',
   universal: 'WTFPL',
-  uswds: 'CC0-1.0'
+  uswds: 'CC0-1.0',
+  'zotero-dark-theme': 'GPL-3.0'
 };
 
 function getName (file) {
