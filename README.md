@@ -77,17 +77,19 @@ These libraries were explicitly not included because they lack a compatible lice
 * https://github.com/datguypiko/Firefox-Mod-Blur/issues/238
 * https://github.com/pattle/simpsons-in-css/issues/3
 * https://github.com/soulwire/Makisu/pull/23
+* https://github.com/jackyzha0/sunlit/issues/4
 
 
 ## Libraries included:
 
-There are **126** files totaling **32.53MB** of unminified CSS.
+There are **134** files totaling **32.99MB** of unminified CSS.
 
 Library | License
 :--     | :--
 [3D transforms](https://github.com/desandro/3dtransforms/blob/gh-pages/css/style.css) | MIT
 [960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | GPL-3.0 or MIT
 [98](https://github.com/jdan/98.css/blob/main/style.css) | MIT
+[Academicons](https://github.com/jpswalsh/academicons/blob/v1.9.6/css/academicons.css) | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css) | MIT
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css) | Hippocratic-2.1
 [Animo](https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css) | MIT
@@ -111,6 +113,7 @@ Library | License
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
 [Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
+[CSS Spinners](https://github.com/jlong/css-spinners/blob/master/css/spinners.css) | MIT
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
 [css-extras](https://github.com/sindresorhus/css-extras/blob/main/index.css) | CC0-1.0 or MIT
 [CSS3 Buttons](https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css) | MIT
@@ -127,8 +130,9 @@ Library | License
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0) | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
+[Furatto](https://github.com/IcaliaLabs/furatto/blob/master/dist/css/furatto.css) | MIT
 [Gallery](https://github.com/benschwarz/gallery-css/blob/master/dist/gallery.prefixed.css) | MIT
-[GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD 2 Clause
+[GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD-2-Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [GitHub-Windows](https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css) | MIT
 [google-type](https://github.com/femmebot/google-type/blob/master/css/google-type.css) | MIT
@@ -138,6 +142,7 @@ Library | License
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css) | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css) | MIT
 [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
+[Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme/blob/master/static/css/style.default.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
 [Load Awesome](https://labs.danielcardoso.net/load-awesome/assets/loaders.css) | MIT
@@ -148,6 +153,7 @@ Library | License
 [Microtip](https://github.com/ghosh/microtip/blob/master/microtip.css) | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css) | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
+[Missing](https://unpkg.com/missing.css@1.3.0/dist/missing.css) | BSD-2-Clause
 [Mobi](https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css) | MIT
 [Mocka](https://github.com/Chalarangelo/mocka/blob/master/dist/mocka.css) | MIT
 [Modern CSS Resets](https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css) | MIT
@@ -156,6 +162,7 @@ Library | License
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css) | MIT
 [object-fit Polyfill](https://github.com/anselmh/object-fit/blob/master/dist/polyfill.object-fit.css) | MIT
+[Obsidian Colored Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar/blob/main/Colored%20Sidebar%20Items.css) | MIT
 [Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL-3.0
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
@@ -167,7 +174,7 @@ Library | License
 [Pills](https://github.com/rohitkrai03/pills/blob/gh-pages/dist/pills.css) | MIT
 [Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
-[Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD
+[Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD-3-Clause
 [Pygments Fruity](https://github.com/richleland/pygments-css/blob/master/fruity.css) | Unlicense
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
 [Remedy Quotes](https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css) | MPL-2.0
@@ -182,6 +189,8 @@ Library | License
 [Select](https://github.com/filamentgroup/select-css/blob/master/src/select-css.css) | MIT
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
+[Sierra](https://unpkg.com/sierra-library@3.5.0/dist/sierra.css) | GPL-2.0
+[Simple Grid](https://github.com/zachacole/Simple-Grid/blob/master/simple-grid.css) | MIT
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css) | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
