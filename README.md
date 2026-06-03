@@ -82,7 +82,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **134** files totaling **32.99MB** of unminified CSS.
+There are **139** files totaling **33.06MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -112,6 +112,7 @@ Library | License
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
+[CSS Plot](https://github.com/asciimoo/cssplot/blob/master/build/cssplot.full.css) | MIT
 [Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
 [CSS Spinners](https://github.com/jlong/css-spinners/blob/master/css/spinners.css) | MIT
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
@@ -140,6 +141,7 @@ Library | License
 [Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css) | MIT
+[HalfStyle](https://github.com/arbelh/HalfStyle/blob/master/css/halfstyle.css) | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css) | MIT
 [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
 [Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme/blob/master/static/css/style.default.css) | MIT
@@ -150,6 +152,7 @@ Library | License
 [markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/reset.css) | Public Domain
+[Microsoft Metro Buttons](https://github.com/ace-subido/css3-microsoft-metro-buttons#license) | CC-BY-3.0
 [Microtip](https://github.com/ghosh/microtip/blob/master/microtip.css) | MIT
 [Mini Reset](https://unpkg.com/minireset.css@0.0.7/minireset.css) | MIT
 [Mini](https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css) | MIT
@@ -209,6 +212,7 @@ Library | License
 [Toast](https://github.com/daneden/Toast/blob/master/css/grid.css) | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
+[tw-animate-css](https://github.com/Wombosvideo/tw-animate-css/blob/main/src/tw-animate.css) | MIT
 [UIkit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css) | MIT
 [Universal.css](https://raw.githubusercontent.com/marmelab/universal.css/refs/heads/master/universal.css) | WTFPL
 [USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css) | CC0-1.0
@@ -218,5 +222,6 @@ Library | License
 [Water](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css) | MIT
 [Webgradients](https://github.com/itmeo/webgradients/blob/master/webgradients.css) | MIT
+[Windows 98](https://github.com/yocontra/windows_98.css/blob/master/dist/win98.css) | MIT
 [Wing](https://github.com/kbrsh/wing/blob/master/dist/wing.css) | MIT
 [WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css) | MIT

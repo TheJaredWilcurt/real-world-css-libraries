@@ -20,6 +20,7 @@ const nameMap = {
   'css-extras': 'css-extras',
   'css-spinners': 'CSS Spinners',
   cssicon: 'cssicon',
+  cssplot: 'CSS Plot',
   'csszengarden-215': 'CSS Zen Garden #215',
   'elegantfin': 'ElegantFin',
   'ff-ultima': 'FF-Ultima',
@@ -28,10 +29,12 @@ const nameMap = {
   'github-markdown': 'GitHub-Markdown',
   'github-windows': 'GitHub-Windows',
   'google-type': 'google-type',
+  halfstyle: 'HalfStyle',
   'html-sheets-of-paper': 'HTML Sheets of Paper',
   instagram: 'Instagram.css',
   'material-for-bootstrap': 'Material for Bootstrap',
   'markdown-css': 'markdown-css',
+  'microsoft-metro-buttons': 'Microsoft Metro Buttons',
   minireset: 'Mini Reset',
   'modern-css-resets': 'Modern CSS Resets',
   mvp: 'MVP',
@@ -43,6 +46,7 @@ const nameMap = {
   semantic: 'Semantic UI',
   spcss: 'SPCSS',
   'the-new-css-reset': 'The New CSS Reset',
+  'tw-animate-css': 'tw-animate-css',
   uikit: 'UIkit',
   universal: 'Universal.css',
   uswds: 'USWDS',
@@ -64,6 +68,7 @@ const nameLicenseMap = {
   'ff-ultima': 'MPL-2.0',
   'github-dark': 'BSD-2-Clause',
   meyer: 'Public Domain',
+  'microsoft-metro-buttons': 'CC-BY-3.0',
   missing: 'BSD-2-Clause',
   'obsidian-modular-css-layout': 'GPL-3.0',
   pure: 'BSD-3-Clause',
@@ -114,6 +119,14 @@ function getUrlFromSource (source) {
    .replace('/* ', '')
    .split(' */\n')[0];
 }
+function validate (source) {
+  const firstLine = source.split('\n')[0];
+  return (
+    firstLine.startsWith('/* ') &&
+    firstLine.endsWith(' */') &&
+    firstLine.length > 10
+  );
+}
 
 export default function (includeUrl) {
   const libsPath = join(__dirname, 'libs');
@@ -131,6 +144,12 @@ export default function (includeUrl) {
     };
     if (includeUrl) {
       library.url = getUrlFromSource(sourceWithUrl);
+      if (!validate(sourceWithUrl)) {
+        console.log('\n\n\n\n\n');
+        console.log('ERROR: Invalid URL on first line:\n\n  ' + fileName);
+        console.log('\n\n\n\n\n');
+        throw '';
+      }
     }
     libraries.push(library);
   }
