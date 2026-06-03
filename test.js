@@ -1,4 +1,5 @@
 import {
+  readdirSync,
   readFileSync,
   writeFileSync
 } from 'node:fs';
@@ -19,10 +20,7 @@ function getSize (libraries) {
   };
 }
 
-function printTableAndTotal () {
-  const includeUrl = true;
-
-  const libraries = getRealWorldCSS(includeUrl);
+function printTableAndTotal (libraries) {
   const { bytes, MB } = getSize(libraries);
   const table = libraries
     .map((library) => {
@@ -65,5 +63,95 @@ function updateReadme (libraries) {
   writeFileSync(readmePath, output.join('\n'));
 }
 
-const libraries = printTableAndTotal();
+function checkLibsFolder (libraries) {
+  const files = readdirSync(join(__dirname, 'libs'));
+
+  const nonCssFiles = files.filter((file) => {
+    return !file.endsWith('.css');
+  });
+  if (nonCssFiles.length) {
+    throw 'File missing extension' + nonCssFiles.join(', ');
+  }
+
+  const filesMissingDashV = files.filter((file) => {
+    return !file.includes('-v');
+  });
+  if (filesMissingDashV.length) {
+    throw 'File missing versions' + filesMissingDashV.join(', ');
+  }
+
+  const filesMissingVersion = files.filter((file) => {
+    const version = file
+      .replaceAll('.css', '')
+      .split('-v')[1];
+    const [major, minor, patch] = version.split('.');
+    return !(
+      version.split('.').length === 3 &&
+      major.length === major.match(/\d+/)[0].length &&
+      minor.length === minor.match(/\d+/)[0].length &&
+      patch.length === patch.match(/\d+/)[0].length
+    );
+  });
+  if (filesMissingVersion.length) {
+    throw 'File missing versions' + filesMissingVersion.join(', ');
+  }
+
+  const librariesMissingName = libraries.filter((library) => {
+    return !library.name;
+  });
+  if (librariesMissingName.length) {
+    console.log(librariesMissingName);
+    throw 'Libraries missing name';
+  }
+
+  const librariesMissingLicense = libraries
+    .filter((library) => {
+      return !library.license.trim();
+    })
+    .map((library) => {
+      return library.name;
+    });
+  if (librariesMissingLicense.length) {
+    throw 'Libraries missing license ' + librariesMissingLicense.join(', ');
+  }
+
+  const librariesMissingSource = libraries
+    .filter((library) => {
+      return !library.source.trim();
+    })
+    .map((library) => {
+      return library.name;
+    });
+  if (librariesMissingSource.length) {
+    throw 'Libraries missing license ' + librariesMissingSource.join(', ');
+  }
+
+  const librariesMissingSize = libraries
+    .filter((library) => {
+      return !library.size;
+    })
+    .map((library) => {
+      return library.name;
+    });
+  if (librariesMissingSize.length) {
+    throw 'Libraries missing license ' + librariesMissingSize.join(', ');
+  }
+
+  const librariesMissingUrl = libraries
+    .filter((library) => {
+      return !library.url.trim();
+    })
+    .map((library) => {
+      return library.name;
+    });
+  if (librariesMissingUrl.length) {
+    throw 'Libraries missing license ' + librariesMissingUrl.join(', ');
+  }
+}
+
+const includeUrl = true;
+const libraries = getRealWorldCSS(includeUrl);
+
+checkLibsFolder(libraries);
+printTableAndTotal(libraries);
 updateReadme(libraries);
