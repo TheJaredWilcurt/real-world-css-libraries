@@ -1,9 +1,10 @@
 {
   "name": "real-world-css-libraries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "bump": "npx --yes -- @jsdevtools/version-bump-prompt && npm i",
     "test": "node ./test.js"
   },
   "homepage": "https://github.com/TheJaredWilcurt/real-world-css-libraries#readme",

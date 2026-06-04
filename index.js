@@ -114,14 +114,15 @@ function getSource (filePath) {
 }
 function getSourceWithoutURL (source) {
   return source
-    .split('*/\n')
+    .split('\n')
     .toSpliced(0, 1)
-    .join('');
+    .join('\n');
 }
 function getUrlFromSource (source) {
-  return source
-   .replace('/* ', '')
-   .split(' */\n')[0];
+  const firstLine = source.split('\n')[0];
+  return firstLine
+    .replace('/* ', '')
+    .replace(' */', '');
 }
 function validate (source) {
   const firstLine = source.split('\n')[0];
