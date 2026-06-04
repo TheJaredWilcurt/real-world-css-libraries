@@ -55,6 +55,19 @@ console.log(namesOfLibrariesCompatibleWithMITLicense);
 ```
 
 
+## Non-npm usage
+
+If you are using a different programming language/package management system and can't `npm i` this library, you have some other options:
+
+1. Download via `git`
+   * `git clone https://github.com/TheJaredWilcurt/real-world-css-libraries.git`
+   * `git clone git@github.com:TheJaredWilcurt/real-world-css-libraries.git`
+1. HTTPS download via UNPKG:
+   * https://app.unpkg.com/real-world-css-libraries
+1. Manually download repo as a ZIP file:
+   * https://github.com/TheJaredWilcurt/real-world-css-libraries/archive/refs/heads/main.zip
+
+
 ## Adding a library
 
 1. Ensure it is part of a public repo that has an open source license
@@ -82,7 +95,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **150** files totaling **33.31MB** of unminified CSS.
+There are **151** files totaling **33.32MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -236,3 +249,4 @@ Library | License
 [Windows 98](https://github.com/yocontra/windows_98.css/blob/master/dist/win98.css) | MIT
 [Wing](https://github.com/kbrsh/wing/blob/master/dist/wing.css) | MIT
 [WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css) | MIT
+[Zotero Dark Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme/blob/main/userChrome.css) | GPL-3.0
