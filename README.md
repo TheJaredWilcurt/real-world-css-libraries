@@ -25,6 +25,7 @@ console.log(libraries);
 /*
  * [
  *   {
+ *     fileName: '960.gs-v0.0.0.css',
  *     name: '960.gs',
  *     version: 'v1.0.0',
  *     license: 'GPL-3.0 or MIT',
@@ -32,6 +33,7 @@ console.log(libraries);
  *     size: 9989
  *   },
  *   {
+ *     fileName: 'animate-v4.1.1.css',
  *     name: 'Animate',
  *     version: 'v4.1.1',
  *     license: 'Hippocratic-2.1',
