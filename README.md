@@ -1,6 +1,6 @@
 # real-world-css-libraries
 
-Repository of unminified, real-world, CSS files from open source projects.
+Corpus of unminified, real-world, CSS files from open source projects.
 
 For use in minification tests and tooling benchmarks.
 
