@@ -18,6 +18,7 @@ const nameMap = {
   'css3-buttons': 'CSS3 Buttons',
   'css-diner': 'CSS Diner',
   'css-extras': 'css-extras',
+  'css-social-buttons': 'CSS Social Buttons',
   'css-spinners': 'CSS Spinners',
   cssco: 'CSSCO',
   cssicon: 'cssicon',
@@ -141,6 +142,7 @@ export default function (includeUrl) {
     const filePath = join(libsPath, fileName);
     const sourceWithUrl = getSource(filePath);
     const library = {
+      fileName,
       name: getFullName(fileName),
       version: getVersion(fileName),
       license: getLicences(fileName),

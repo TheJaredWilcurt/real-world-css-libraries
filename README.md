@@ -129,7 +129,7 @@ Library | License
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
 [CSS Diner](https://github.com/flukeout/css-diner/blob/develop/css/style.css) | MPL-2.0
 [CSS Plot](https://github.com/asciimoo/cssplot/blob/master/build/cssplot.full.css) | MIT
-[Css Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
+[CSS Social Buttons](https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css) | MIT
 [CSS Spinners](https://github.com/jlong/css-spinners/blob/master/css/spinners.css) | MIT
 [CSS Zen Garden #215](https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css) | CC-BY-NC-SA-1.0
 [css-extras](https://github.com/sindresorhus/css-extras/blob/main/index.css) | CC0-1.0 or MIT

@@ -24,11 +24,13 @@ function printTableAndTotal (libraries) {
   const { bytes, MB } = getSize(libraries);
   const table = libraries
     .map((library) => {
-      return {
+      const newLibrary = {
         ...library,
         source: library.source.slice(0, 20),
         url: library.url.slice(0, 30).split('//')[1]
       };
+      delete newLibrary.fileName;
+      return newLibrary;
     });
 
   console.table(table);
