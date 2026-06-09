@@ -34,7 +34,8 @@ console.log(libraries);
  *     version: 'v1.0.0',
  *     license: 'GPL-3.0 or MIT',
  *     source: '/*\n  960 Grid System ~ Core CSS.\n  Learn more ~ http://9...',
- *     size: 9989
+ *     size: 9989,
+ *     url: 'https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css'
  *   },
  *   {
  *     fileName: 'animate-v4.1.1.css',
@@ -42,7 +43,8 @@ console.log(libraries);
  *     version: 'v4.1.1',
  *     license: 'Hippocratic-2.1',
  *     source: '@charset "UTF-8";\n/*!\n * animate.css - https://animate.s...',
- *     size: 95377
+ *     size: 95377,
+ *     url: 'https://github.com/animate-css/animate.css/blob/main/animate.css'
  *   },
  *   ...
  * ]
@@ -120,8 +122,8 @@ Library | License
 [Blue-Topaz Obsidian](https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css) | MIT
 [Boilerform](https://github.com/Andy-set-studio/boilerform/blob/master/dist/css/boilerform.css) | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css) | MIT
-[Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v4.6.2) | MIT
-[Bootstrap](https://github.com/twbs/bootstrap/releases/tag/v5.3.8) | MIT
+[Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2) | MIT
+[Bootstrap 5](https://github.com/twbs/bootstrap/releases/tag/v5.3.8) | MIT
 [Bttn](https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css) | MIT
 [Bulma](https://github.com/jgthms/bulma/blob/main/css/bulma.css) | MIT
 [Carbon](https://unpkg.com/@carbon/styles@1.107.0/css/styles.css) | Apache-2.0
