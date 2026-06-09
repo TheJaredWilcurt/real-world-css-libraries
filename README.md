@@ -4,6 +4,10 @@ Corpus of unminified, real-world, CSS files from open source projects.
 
 For use in minification tests and tooling benchmarks.
 
+To see how various CSS Minification Tools perform when minifying these files:
+
+* https://www.keithcirkel.co.uk/css-minify-tests/#real-world
+
 
 ## Usage
 
