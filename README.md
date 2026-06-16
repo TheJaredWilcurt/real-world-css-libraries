@@ -77,6 +77,8 @@ If you are using a different programming language/package management system and 
 1. Manually download repo as a ZIP file:
    * https://github.com/TheJaredWilcurt/real-world-css-libraries/archive/refs/heads/main.zip
 
+Then you can loop over the files in the `libs` folder yourself for your usage.
+
 
 ## Adding a library
 
