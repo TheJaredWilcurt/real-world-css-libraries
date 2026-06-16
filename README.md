@@ -94,6 +94,11 @@ Then you can loop over the files in the `libs` folder yourself for your usage.
    * If the new library's name needs correcting (like `Mycssrepo` should be `My CSS Repo`), update `nameMap` in `index.js` and run `npm t` again.
 
 
+## License
+
+This repo and all original work within is licensed under MIT. However, the files in the `libs` folder have their own licenses, which can be seen below. I've modified each file to include a single line comment at the top with a link to the original source file, and where needed, ensured there is a single empty return at the end of each file. For simplicity, each of these changes is re-licensed using the exact same original license that was associated with that library. So the (slightly) modified copy of FF-Ultima in `/libs/ff-ultima-v4.3.0.css`, for example, retains it's original `MPL-2.0` license. Effectively all the files in the `/lib` folder have a "pass-through" license back to their original in the sense that my modifications are intentionally minor and inconsequential and therefor should not require a re-licensing of them, but if in a legal sense these minor changes require re-licensing, they are intentionally re-licensed with a matching license of the original. No other changes were made to these files, as I want to keep them representative to what exists in the real world, bugs and all.
+
+
 ## Skipped Libraries
 
 These libraries were explicitly not included because they lack a compatible license. Issues have been created for them to add a license, if they do in the future, they can be included in this repo.
