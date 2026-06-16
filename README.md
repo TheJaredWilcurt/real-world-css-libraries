@@ -62,6 +62,8 @@ console.log(namesOfLibrariesCompatibleWithMITLicense);
 // ['960.gs', '98', 'AdminLTE', ...]
 ```
 
+**Note:** The `size` is from the original file size on disk. This will be different from `source.length`. If you are comparing the output of a minifier, for example, by using `output.length` of it as a string, then to get a more accurate comparison for percentage of size reduction, you should use `output.length / source.length` instead of `output.length / size`. Counting the number of characters is different than the actual filesize, because not all characters are 1 byte.
+
 
 ## Non-npm usage
 
