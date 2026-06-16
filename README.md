@@ -31,7 +31,7 @@ console.log(libraries);
  *   {
  *     fileName: '960.gs-v0.0.0.css',
  *     name: '960.gs',
- *     version: 'v1.0.0',
+ *     version: 'v0.0.0',
  *     license: 'GPL-3.0 or MIT',
  *     source: '/*\n  960 Grid System ~ Core CSS.\n  Learn more ~ http://9...',
  *     size: 9989,
