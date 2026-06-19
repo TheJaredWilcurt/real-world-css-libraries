@@ -112,7 +112,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **151** files totaling **33.32MB** of unminified CSS.
+There are **166** files totaling **33.75MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -140,7 +140,9 @@ Library | License
 [Chota](https://github.com/jenil/chota/blob/main/dist/chota.css) | MIT
 [Cirrus](https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css) | MIT
 [Classless](https://github.com/DigitallyTailored/Classless.css/blob/main/classless.css) | MIT
+[CleanSlate](https://github.com/premasagar/cleanslate/blob/master/cleanslate.css) | MIT
 [CodeFrame](https://github.com/codyhouse/codyframe/blob/main/main/css/style.css) | MIT
+[Colofilter](https://github.com/LukyVj/colofilter.css/blob/master/styles/colofilter.css) | MIT
 [Concise](https://unpkg.com/concise.css@4.1.2/dist/concise.css) | MIT
 [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css) | MIT
 [cs16.css](https://github.com/ekmas/cs16.css/blob/main/css/cs16.css) | MIT
@@ -162,6 +164,7 @@ Library | License
 [ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
 [Evil](https://github.com/tlrobinson/evil.css/blob/master/evil.css) | Public Domain
 [FF-Ultima](https://github.com/soulhotel/FF-ULTIMA/blob/main/theme/ffu-internal-appearance.css) | MPL-2.0
+[Fileicon](https://github.com/picturepan2/fileicon.css/blob/master/fileicon.css) | MIT
 [Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
 [Flex Layout Attribute](https://github.com/StefanKovac/flex-layout-attribute/blob/master/css/flex-layout-attribute.css) | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
@@ -173,22 +176,26 @@ Library | License
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [GitHub-Windows](https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css) | MIT
 [google-type](https://github.com/femmebot/google-type/blob/master/css/google-type.css) | MIT
+[Gridism](https://github.com/cobyism/gridism/blob/master/gridism.css) | MIT
 [Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
 [Gumby](https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css) | MIT
 [Gutenberg](https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css) | MIT
 [Halfmoon](https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css) | MIT
 [HalfStyle](https://github.com/arbelh/HalfStyle/blob/master/css/halfstyle.css) | MIT
 [Hint](https://github.com/chinchang/hint.css/blob/master/hint.css) | MIT
+[Holmes](https://github.com/redroot/holmes/blob/master/holmes.css) | GPL-3.0
 [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css) | MIT
 [Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme/blob/master/static/css/style.default.css) | MIT
 [Icon Hover Effects](https://github.com/codrops/IconHoverEffects/blob/master/css/component.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
+[Less Framework](https://github.com/jonikorpi/Less-Framework/blob/master/main-17px.css) | MIT
 [Load Awesome](https://labs.danielcardoso.net/load-awesome/assets/loaders.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
 [Luxbar](https://github.com/balzss/luxbar/blob/master/build/luxbar.css) | MIT
 [markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
+[medium.css](https://github.com/lucagez/medium.css/blob/master/demo/src/medium_extended.css) | MIT
 [Meyer](https://meyerweb.com/eric/tools/css/reset/reset.css) | Public Domain
 [Microsoft Metro Buttons](https://github.com/ace-subido/css3-microsoft-metro-buttons#license) | CC-BY-3.0
 [Microtip](https://github.com/ghosh/microtip/blob/master/microtip.css) | MIT
@@ -205,6 +212,7 @@ Library | License
 [object-fit Polyfill](https://github.com/anselmh/object-fit/blob/master/dist/polyfill.object-fit.css) | MIT
 [Obsidian Colored Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar/blob/main/Colored%20Sidebar%20Items.css) | MIT
 [Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL-3.0
+[OffCanvasMenuEffects](https://github.com/codrops/OffCanvasMenuEffects/blob/master/css/menu_cornermorph.css) | MIT
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css) | MIT
@@ -229,6 +237,7 @@ Library | License
 [Ripple UI](https://unpkg.com/rippleui@1.12.1/dist/css/styles.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
 [Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0-1.0
+[Select2 Bootstrap](https://github.com/t0m/select2-bootstrap-css/blob/master/select2-bootstrap.css) | MIT
 [Select](https://github.com/filamentgroup/select-css/blob/master/src/select-css.css) | MIT
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
@@ -236,14 +245,19 @@ Library | License
 [Simple Grid](https://github.com/zachacole/Simple-Grid/blob/master/simple-grid.css) | MIT
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css) | MIT
+[SimpTip](https://github.com/arashmanteghi/simptip/blob/master/simptip.css) | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
 [SPCSS](https://github.com/susam/spcss/blob/main/sp.css) | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | MIT
+[Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom/blob/main/src/user.css) | MIT
 [Spicetify Dribbblish](https://github.com/spicetify/spicetify-themes/blob/master/Dribbblish/user.css) | MIT
 [Spicetify Text](https://github.com/spicetify/spicetify-themes/blob/master/text/user.css) | MIT
 [Spinkit](https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css) | MIT
 [Stackicons](https://github.com/parkerbennett/stackicons/blob/master/css/stackicons-social.css) | MIT
+[StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark/blob/v5.1.2/stackoverflow-dark.user.css) | CC-BY-SA-4.0
 [Stacks](https://unpkg.com/@stackoverflow/stacks@2.8.6/dist/css/stacks.css) | MIT
+[Swagger UI Themes 2](https://github.com/ostranme/swagger-ui-themes/blob/develop/themes/2.x/theme-monokai.css) | MIT
+[Swagger UI Themes 3](https://github.com/ostranme/swagger-ui-themes/blob/develop/themes/3.x/theme-monokai.css) | MIT
 [System](https://github.com/sakofchit/system.css/blob/main/style.css) | MIT
 [Tablecloth](https://github.com/bwsewell/tablecloth/blob/master/assets/css/tablecloth.css) | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css) | MIT
@@ -263,6 +277,7 @@ Library | License
 [Water](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css) | MIT
 [Webgradients](https://github.com/itmeo/webgradients/blob/master/webgradients.css) | MIT
+[Wenk](https://github.com/tiaanduplessis/wenk/blob/master/dist/wenk.cssnext.css) | MIT
 [Windows 98](https://github.com/yocontra/windows_98.css/blob/master/dist/win98.css) | MIT
 [Wing](https://github.com/kbrsh/wing/blob/master/dist/wing.css) | MIT
 [WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css) | MIT
