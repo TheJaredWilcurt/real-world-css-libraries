@@ -252,8 +252,8 @@ Library | License
 [Remedy](https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css) | MPL-2.0
 [Repaintless](https://github.com/szynszyliszys/repaintless/blob/master/repaintless-css/repaintless.css) | MIT
 [Reset](https://github.com/Anurella/reset-css/blob/main/reset.css) | MIT
-[Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
-[Responsive](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
+[Responsive 4](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css) | MIT
+[Responsive 5](https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css) | MIT
 [Ress](https://github.com/filipelinhares/ress/blob/master/ress.css) | MIT
 [Ripple UI](https://unpkg.com/rippleui@1.12.1/dist/css/styles.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
