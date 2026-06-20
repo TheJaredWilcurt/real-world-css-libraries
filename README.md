@@ -108,20 +108,24 @@ These libraries were explicitly not included because they lack a compatible lice
 * https://github.com/pattle/simpsons-in-css/issues/3
 * https://github.com/soulwire/Makisu/pull/23
 * https://github.com/jackyzha0/sunlit/issues/4
+* https://github.com/replete/obsidian-minimal-theme-css-snippets/issues/13
 
 
 ## Libraries included:
 
-There are **166** files totaling **33.75MB** of unminified CSS.
+There are **200** files totaling **40.75MB** of unminified CSS.
 
 Library | License
 :--     | :--
+[30 Days 30 Submits #18](https://github.com/ShaifArfan/30days30submits/blob/master/day-18/style.css) | MIT
 [3D transforms](https://github.com/desandro/3dtransforms/blob/gh-pages/css/style.css) | MIT
 [960.gs](https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css) | GPL-3.0 or MIT
 [98](https://github.com/jdan/98.css/blob/main/style.css) | MIT
 [Academicons](https://github.com/jpswalsh/academicons/blob/v1.9.6/css/academicons.css) | MIT
 [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css) | MIT
+[AMOLED-cord](https://github.com/LuckFire/amoled-cord/blob/main/src/amoled-cord.css) | MIT
 [Animate](https://github.com/animate-css/animate.css/blob/main/animate.css) | Hippocratic-2.1
+[Animating Hamburger Icons](https://github.com/callmenick/Animating-Hamburger-Icons/blob/master/css/style.css) | MIT
 [Animo](https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css) | MIT
 [Animsition](https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css) | MIT
 [Awesome Bootstrap Checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox/blob/master/awesome-bootstrap-checkbox.css) | MIT
@@ -131,6 +135,7 @@ Library | License
 [Blue-Topaz Obsidian](https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css) | MIT
 [Boilerform](https://github.com/Andy-set-studio/boilerform/blob/master/dist/css/boilerform.css) | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css) | MIT
+[Bootplus](https://github.com/aozora/bootplus/blob/master/docs/assets/css/bootplus.css) | Apache-2.0 or GPL-2.0
 [Bootstrap 4](https://github.com/twbs/bootstrap/releases/tag/v4.6.2) | MIT
 [Bootstrap 5](https://github.com/twbs/bootstrap/releases/tag/v5.3.8) | MIT
 [Bttn](https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css) | MIT
@@ -162,19 +167,24 @@ Library | License
 [Doxygen Awesome](https://github.com/jothepro/doxygen-awesome-css/blob/main/doxygen-awesome.css) | MIT
 [Effeckt](https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css) | MIT
 [ElegantFin](https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css) | MIT
+[Enferno](https://github.com/level09/enferno/blob/master/enferno/static/css/app.css) | MIT
 [Evil](https://github.com/tlrobinson/evil.css/blob/master/evil.css) | Public Domain
+[Facebook Buttons](https://github.com/necolas/css3-facebook-buttons/blob/master/fb-buttons.css) | MIT
 [FF-Ultima](https://github.com/soulhotel/FF-ULTIMA/blob/main/theme/ffu-internal-appearance.css) | MPL-2.0
 [Fileicon](https://github.com/picturepan2/fileicon.css/blob/master/fileicon.css) | MIT
 [Flakes](https://github.com/kumailht/flakes/blob/master/css/all.css) | MIT
 [Flex Layout Attribute](https://github.com/StefanKovac/flex-layout-attribute/blob/master/css/flex-layout-attribute.css) | MIT
+[FluentBird](https://github.com/Deathbyteacup/fluentbird/blob/main/userChrome.css) | MIT
 [Fomantic UI](https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css) | MIT
 [Font Awesome](https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0) | MIT
 [Foundation](https://github.com/foundation/foundation-sites/releases/tag/v6.9.0) | MIT
+[Freebies](https://github.com/uisual/freebies/blob/master/curve/style.css) | MIT
 [Furatto](https://github.com/IcaliaLabs/furatto/blob/master/dist/css/furatto.css) | MIT
 [Gallery](https://github.com/benschwarz/gallery-css/blob/master/dist/gallery.prefixed.css) | MIT
 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css) | BSD-2-Clause
 [GitHub-Markdown](https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css) | MIT
 [GitHub-Windows](https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css) | MIT
+[gitweb-theme](https://github.com/kogakure/gitweb-theme/blob/master/gitweb.css) | MIT
 [google-type](https://github.com/femmebot/google-type/blob/master/css/google-type.css) | MIT
 [Gridism](https://github.com/cobyism/gridism/blob/master/gridism.css) | MIT
 [Gridlex](https://github.com/devlint/gridlex/blob/master/dist/gridlex.css) | MIT
@@ -189,10 +199,16 @@ Library | License
 [Icon Hover Effects](https://github.com/codrops/IconHoverEffects/blob/master/css/component.css) | MIT
 [Instagram.css](https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css) | MIT
 [Jupyter Themes](https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css) | MIT
+[Justified](https://github.com/nitinhayaran/Justified.js/blob/master/jquery.justified.css) | MIT
+[Kickoff](https://github.com/TryKickoff/kickoff/blob/master/assets/dist/css/styleguide.css) | MIT
+[KNACSS](https://github.com/alsacreations/KNACSS/blob/master/assets/css/natives.css) | WTFPL
 [Less Framework](https://github.com/jonikorpi/Less-Framework/blob/master/main-17px.css) | MIT
+[Linktree](https://github.com/johnggli/linktree/blob/master/style.css) | MIT
+[littlebox](https://github.com/cmaddux/littlebox/blob/master/lib/littlebox.css) | MIT
 [Load Awesome](https://labs.danielcardoso.net/load-awesome/assets/loaders.css) | MIT
 [Loaders](https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css) | MIT
 [Luxbar](https://github.com/balzss/luxbar/blob/master/build/luxbar.css) | MIT
+[Lynx](https://github.com/jpanther/lynx/blob/dev/assets/css/compiled/main.css) | MIT
 [markdown-css](https://github.com/mrcoles/markdown-css/blob/master/markdown.css) | MIT
 [Material for Bootstrap](https://github.com/Daemonite/material/blob/master/css/material.css) | MIT
 [medium.css](https://github.com/lucagez/medium.css/blob/master/demo/src/medium_extended.css) | MIT
@@ -210,11 +226,14 @@ Library | License
 [NES.css](https://unpkg.com/nes.css@2.3.0/css/nes.css) | MIT
 [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css) | MIT
 [object-fit Polyfill](https://github.com/anselmh/object-fit/blob/master/dist/polyfill.object-fit.css) | MIT
+[Obnoxious](https://github.com/tholman/obnoxious.css/blob/master/obnoxious.css) | MIT
 [Obsidian Colored Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar/blob/main/Colored%20Sidebar%20Items.css) | MIT
 [Obsidian Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css) | GPL-3.0
+[Obsidian Notebook Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes/blob/main/Notebook%20Backgrounds.css) | MIT
 [OffCanvasMenuEffects](https://github.com/codrops/OffCanvasMenuEffects/blob/master/css/menu_cornermorph.css) | MIT
 [Orbit](https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css) | MIT
 [Paper](https://github.com/cognitom/paper-css/blob/master/paper.css) | MIT
+[PatternBolt](https://github.com/buseca/patternbolt/blob/gh-pages/css/style-demo.css) | MIT
 [PatternFly](https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css) | MIT
 [Pesticide](https://github.com/mrmrs/pesticide/blob/main/css/pesticide.css) | MIT
 [Photon](https://github.com/connors/photon/blob/master/dist/css/photon.css) | MIT
@@ -224,6 +243,8 @@ Library | License
 [Portfolio Template](https://github.com/nisarhassan12/portfolio-template/blob/master/index.css) | GPL-3.0
 [Preboot](https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css) | MIT
 [Pretty Checkbox](https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css) | MIT
+[Progress Tracker](https://github.com/NigelOToole/progress-tracker/blob/master/src/styles/progress-tracker.css) | MIT
+[ProxMorph](https://github.com/IT-BAER/proxmorph/blob/main/themes/theme-unifi.css) | MIT
 [Pure](https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css) | BSD-3-Clause
 [Pygments Fruity](https://github.com/richleland/pygments-css/blob/master/fruity.css) | Unlicense
 [Ratchet](https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css) | MIT
@@ -237,16 +258,19 @@ Library | License
 [Ripple UI](https://unpkg.com/rippleui@1.12.1/dist/css/styles.css) | MIT
 [Sakura](https://github.com/oxalorg/sakura/blob/master/css/sakura.css) | MIT
 [Sanitize](https://github.com/csstools/sanitize.css/blob/main/sanitize.css) | CC0-1.0
+[SAPC-APCA](https://github.com/Myndex/SAPC-APCA/blob/master/CSS/MyndexbDark.css) | AGPL-3.0
 [Select2 Bootstrap](https://github.com/t0m/select2-bootstrap-css/blob/master/select2-bootstrap.css) | MIT
 [Select](https://github.com/filamentgroup/select-css/blob/master/src/select-css.css) | MIT
 [Semantic UI](https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css) | MIT
 [Shards](https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css) | MIT
+[Shina Fox](https://github.com/Shina-SG/Shina-Fox/blob/main/userChrome.css) | MPL-2.0
 [Sierra](https://unpkg.com/sierra-library@3.5.0/dist/sierra.css) | GPL-2.0
 [Simple Grid](https://github.com/zachacole/Simple-Grid/blob/master/simple-grid.css) | MIT
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css) | MIT
 [Simple](https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css) | MIT
 [SimpTip](https://github.com/arashmanteghi/simptip/blob/master/simptip.css) | MIT
 [Skeleton](https://github.com/dhg/Skeleton/blob/master/css/skeleton.css) | MIT
+[Social Sign-in Buttons](https://github.com/necolas/css3-social-signin-buttons/blob/gh-pages/auth-buttons.css) | Unlicense
 [SPCSS](https://github.com/susam/spcss/blob/main/sp.css) | MIT
 [Spectre](https://github.com/picturepan2/spectre/blob/master/dist/spectre.css) | MIT
 [Spicetify Bloom](https://github.com/nimsandu/spicetify-bloom/blob/main/src/user.css) | MIT
@@ -261,9 +285,12 @@ Library | License
 [System](https://github.com/sakofchit/system.css/blob/main/style.css) | MIT
 [Tablecloth](https://github.com/bwsewell/tablecloth/blob/master/assets/css/tablecloth.css) | MIT
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css) | MIT
+[Tailwind Cards](https://github.com/hasinhayder/tailwind-cards/blob/master/tailwind.css) | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
+[The 50 Front-end Project #44](https://github.com/SudeepAcharjee/The-50-Front-end-Project/blob/main/44.Admin%20panel%20Dashboard/Admin%20Dashboard%20Panel/style.css) | BSL-1.0
 [The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
 [Toast](https://github.com/daneden/Toast/blob/master/css/grid.css) | MIT
+[Tocas](https://github.com/teacat/tocas/blob/master/dist/tocas.css) | MIT
 [Tooltip Twispy](https://github.com/HubSpot/tooltip/blob/master/dist/css/tooltip-theme-twipsy.css) | MIT
 [Tufte](https://unpkg.com/tufte-css@1.8.0/tufte.css) | MIT
 [Tui](https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css) | MIT
@@ -271,14 +298,22 @@ Library | License
 [UIkit](https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css) | MIT
 [Universal.css](https://raw.githubusercontent.com/marmelab/universal.css/refs/heads/master/universal.css) | WTFPL
 [USWDS](https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css) | CC0-1.0
+[Utility OpenType](https://github.com/kennethormandy/utility-opentype/blob/master/css/utility-opentype.css) | MIT
+[Vim CSS3 Syntax](https://github.com/hail2u/vim-css3-syntax/blob/main/test/test.css) | MIT
 [VitePress](https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css) | MIT
 [Vivify](https://github.com/Martz90/vivify/blob/master/vivify.css) | MIT
 [Voxels](https://github.com/HunterLarco/voxel.css/blob/master/src/voxel.css) | MIT
+[Waffle Grid](https://github.com/pr1mer-tech/waffle-grid/blob/master/dist/waffle-grid.css) | MIT
 [Water](https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css) | MIT
 [Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/css) | MIT
 [Webgradients](https://github.com/itmeo/webgradients/blob/master/webgradients.css) | MIT
 [Wenk](https://github.com/tiaanduplessis/wenk/blob/master/dist/wenk.cssnext.css) | MIT
+[Wikipedia Dark](https://github.com/StylishThemes/Wikipedia-Dark/blob/master/wikipedia-dark.user.css) | CC-BY-SA-4.0
+[Windows 95](https://github.com/h01000110/windows-95/blob/master/_sass/_main.scss) | MIT
 [Windows 98](https://github.com/yocontra/windows_98.css/blob/master/dist/win98.css) | MIT
 [Wing](https://github.com/kbrsh/wing/blob/master/dist/wing.css) | MIT
+[Woah](https://github.com/joerez/Woah.css/blob/master/woah.css) | MIT
 [WTF Forms](https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css) | MIT
+[YaCy](https://github.com/yacy/yacy_webclient_yaml4/blob/master/yaml/forms/gray-theme.css) | CC-BY-2.0
+[Yue](https://github.com/typlog/yue.css/blob/master/src/yue.css) | MIT
 [Zotero Dark Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme/blob/main/userChrome.css) | GPL-3.0

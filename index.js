@@ -8,8 +8,10 @@ import { join } from 'node:path';
 const __dirname = import.meta.dirname;
 
 const nameMap = {
+  '30days30submits-18': '30 Days 30 Submits #18',
   '3dtransforms': '3D transforms',
   'admin-lte': 'AdminLTE',
+  'amoled-cord': 'AMOLED-cord',
   beercss: 'Beer CSS',
   'blue-topaz-obsidian': 'Blue-Topaz Obsidian',
   cleanslate: 'CleanSlate',
@@ -27,14 +29,18 @@ const nameMap = {
   'csszengarden-215': 'CSS Zen Garden #215',
   'elegantfin': 'ElegantFin',
   'ff-ultima': 'FF-Ultima',
+  fluentbird: 'FluentBird',
   fomantic: 'Fomantic UI',
   'github-dark': 'GitHub-Dark',
   'github-markdown': 'GitHub-Markdown',
   'github-windows': 'GitHub-Windows',
+  'gitweb-theme': 'gitweb-theme',
   'google-type': 'google-type',
   halfstyle: 'HalfStyle',
   'html-sheets-of-paper': 'HTML Sheets of Paper',
   instagram: 'Instagram.css',
+  knacss: 'KNACSS',
+  littlebox: 'littlebox',
   'material-for-bootstrap': 'Material for Bootstrap',
   'markdown-css': 'markdown-css',
   'medium.css': 'medium.css',
@@ -46,27 +52,38 @@ const nameMap = {
   'object-fit-polyfill': 'object-fit Polyfill',
   'obsidian-modular-css-layout': 'Obsidian Modular CSS Layout',
   'off-canvas-menu-effects': 'OffCanvasMenuEffects',
+  patternbolt: 'PatternBolt',
   patternfly: 'PatternFly',
+  proxmorph: 'ProxMorph',
   rippleui: 'Ripple UI',
+  'sapc-apca': 'SAPC-APCA',
   semantic: 'Semantic UI',
   simptip: 'SimpTip',
+  'social-signin-buttons': 'Social Sign-in Buttons',
   spcss: 'SPCSS',
   'stackoverflow-dark': 'StackOverflow-Dark',
   'swagger-ui-themes-2': 'Swagger UI Themes 2',
   'swagger-ui-themes-3': 'Swagger UI Themes 3',
+  'the-50-front-end-project-44': 'The 50 Front-end Project #44',
   'the-new-css-reset': 'The New CSS Reset',
   'tw-animate-css': 'tw-animate-css',
   uikit: 'UIkit',
+  'utility-opentype': 'Utility OpenType',
   universal: 'Universal.css',
   uswds: 'USWDS',
+  'vim-css3-syntax': 'Vim CSS3 Syntax',
   vitepress: 'VitePress',
-  'wtf-forms': 'WTF Forms'
+  'wikipedia-dark': 'Wikipedia Dark',
+  'wtf-forms': 'WTF Forms',
+  yacy: 'YaCy'
 };
-// Prefer keywords listed here:
+// Prefer identifiers listed here:
 // https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type
+// spdx.org/licenses
 const nameLicenseMap = {
   '960.gs': 'GPL-3.0 or MIT',
   animate: 'Hippocratic-2.1',
+  bootplus: 'Apache-2.0 or GPL-2.0',
   carbon: 'Apache-2.0',
   'css-diner': 'MPL-2.0',
   'css-extras': 'CC0-1.0 or MIT',
@@ -79,6 +96,7 @@ const nameLicenseMap = {
   'stackoverflow-dark': 'CC-BY-SA-4.0',
   'github-dark': 'BSD-2-Clause',
   holmes: 'GPL-3.0',
+  knacss: 'WTFPL',
   meyer: 'Public Domain',
   'microsoft-metro-buttons': 'CC-BY-3.0',
   missing: 'BSD-2-Clause',
@@ -89,9 +107,15 @@ const nameLicenseMap = {
   remedy: 'MPL-2.0',
   'remedy-quotes': 'MPL-2.0',
   sanitize: 'CC0-1.0',
+  'sapc-apca': 'AGPL-3.0',
+  'shina-fox': 'MPL-2.0',
   sierra: 'GPL-2.0',
+  'social-signin-buttons': 'Unlicense',
+  'the-50-front-end-project-44': 'BSL-1.0',
   universal: 'WTFPL',
   uswds: 'CC0-1.0',
+  'wikipedia-dark': 'CC-BY-SA-4.0',
+  yacy: 'CC-BY-2.0',
   'zotero-dark-theme': 'GPL-3.0'
 };
 
@@ -110,10 +134,16 @@ function getFullName (file) {
   const name = getName(file);
   return nameMap[name] || titleCase(name);
 }
-function getVersion (file) {
-  return 'v' + file
-    .replace('.css', '')
-    .split('-v')[1];
+export const getVersion = function (file) {
+  // 'ultimate-victory.css-v1.0.2.css' => ['ultimate', 'ictory', '1.0.2']
+  const versionGroup = file
+    .replaceAll('.css', '')
+    .split('-v');
+
+  // '1.0.2'
+  const version = versionGroup[versionGroup.length - 1];
+
+  return 'v' + version;
 }
 function getLicences (file) {
   const name = getName(file);

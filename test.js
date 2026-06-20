@@ -5,7 +5,7 @@ import {
 } from 'node:fs';
 import { join } from 'node:path';
 
-import getRealWorldCSS from './index.js';
+import getRealWorldCSS, { getVersion } from './index.js';
 
 const __dirname = import.meta.dirname;
 
@@ -83,9 +83,8 @@ function checkLibsFolder (libraries) {
   }
 
   const filesMissingVersion = files.filter((file) => {
-    const version = file
-      .replaceAll('.css', '')
-      .split('-v')[1];
+    const version = getVersion(file).replace('v', '');
+    // ['1', '0', '2']
     const [major, minor, patch] = version.split('.');
     return !(
       version.split('.').length === 3 &&
