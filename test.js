@@ -16,12 +16,13 @@ function getSize (libraries) {
   });
   return {
     bytes: total.toLocaleString(),
-    MB: Math.round((total / 1024 / 1024) * 100) / 100
+    KB: (Math.round(total / 1024)).toLocaleString(),
+    MB: (Math.round((total / 1024 / 1024) * 100) / 100).toLocaleString()
   };
 }
 
 function printTableAndTotal (libraries) {
-  const { bytes, MB } = getSize(libraries);
+  const { bytes, KB, MB } = getSize(libraries);
   const table = libraries
     .map((library) => {
       const newLibrary = {
@@ -34,7 +35,12 @@ function printTableAndTotal (libraries) {
     });
 
   console.table(table);
-  console.log('TOTAL: ' + bytes + ' bytes or ' + MB + ' MB.');
+  console.log([
+    libraries.length + ' files',
+    MB + ' MB',
+    KB + ' KB',
+    bytes + ' bytes'
+  ].join(' - '));
   return libraries;
 }
 
@@ -79,7 +85,14 @@ function checkLibsFolder (libraries) {
     return !file.includes('-v');
   });
   if (filesMissingDashV.length) {
-    throw 'File missing versions' + filesMissingDashV.join(', ');
+    throw (
+      '\nFiles missing version (`-v0.0.0`):\n' +
+      filesMissingDashV
+        .map((file) => {
+          return '  * ' + file
+        })
+        .join('\n') + '\n'
+    );
   }
 
   const filesMissingVersion = files.filter((file) => {
@@ -150,9 +163,22 @@ function checkLibsFolder (libraries) {
   }
 }
 
+function updateMetaData (libraries) {
+  const withoutSources = [];
+  for (const library of libraries) {
+    const lib = { ...library };
+    delete lib.source;
+    withoutSources.push(lib);
+  }
+  const contents = JSON.stringify(withoutSources, null, 2);
+  const metaFile = join(__dirname, 'metadata.json');
+  writeFileSync(metaFile, contents);
+}
+
 const includeUrl = true;
 const libraries = getRealWorldCSS(includeUrl);
 
 checkLibsFolder(libraries);
 printTableAndTotal(libraries);
 updateReadme(libraries);
+updateMetaData(libraries);

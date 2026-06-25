@@ -7,14 +7,18 @@ import { join } from 'node:path';
 
 const __dirname = import.meta.dirname;
 
+// Defaults to: 'title-case' => 'Title Case'
 const nameMap = {
   '30days30submits-18': '30 Days 30 Submits #18',
   '3dtransforms': '3D transforms',
+  adminhub: 'AdminHub',
   'admin-lte': 'AdminLTE',
   'amoled-cord': 'AMOLED-cord',
   beercss: 'Beer CSS',
+  'blooger-website': 'Blooger_Website',
   'blue-topaz-obsidian': 'Blue-Topaz Obsidian',
   cleanslate: 'CleanSlate',
+  clickeffects: 'ClickEffects',
   codyframe: 'CodeFrame',
   crookedstylesheets: 'CrookedStyleSheets',
   'cs16': 'cs16.css',
@@ -29,6 +33,8 @@ const nameMap = {
   'csszengarden-215': 'CSS Zen Garden #215',
   'elegantfin': 'ElegantFin',
   'ff-ultima': 'FF-Ultima',
+  'firefox-one': 'Firefox-ONE',
+  'firefox-uwp-style': 'Firefox-UWP-Style',
   fluentbird: 'FluentBird',
   fomantic: 'Fomantic UI',
   'github-dark': 'GitHub-Dark',
@@ -47,18 +53,22 @@ const nameMap = {
   'microsoft-metro-buttons': 'Microsoft Metro Buttons',
   minireset: 'Mini Reset',
   'modern-css-resets': 'Modern CSS Resets',
+  mvcss: 'MVCSS',
   mvp: 'MVP',
   nes: 'NES.css',
   'object-fit-polyfill': 'object-fit Polyfill',
   'obsidian-modular-css-layout': 'Obsidian Modular CSS Layout',
   'off-canvas-menu-effects': 'OffCanvasMenuEffects',
+  orgcss: 'OrgCSS',
   patternbolt: 'PatternBolt',
   patternfly: 'PatternFly',
+  'protonmail-themes': 'ProtonMail Themes',
   proxmorph: 'ProxMorph',
   rippleui: 'Ripple UI',
   'sapc-apca': 'SAPC-APCA',
   semantic: 'Semantic UI',
   simptip: 'SimpTip',
+  slitslider: 'SlitSlider',
   'social-signin-buttons': 'Social Sign-in Buttons',
   spcss: 'SPCSS',
   'stackoverflow-dark': 'StackOverflow-Dark',
@@ -73,16 +83,19 @@ const nameMap = {
   uswds: 'USWDS',
   'vim-css3-syntax': 'Vim CSS3 Syntax',
   vitepress: 'VitePress',
+  w3css: 'w3css',
   'wikipedia-dark': 'Wikipedia Dark',
   'wtf-forms': 'WTF Forms',
   yacy: 'YaCy'
 };
+// Defaults to 'MIT'
 // Prefer identifiers listed here:
 // https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type
 // spdx.org/licenses
 const nameLicenseMap = {
   '960.gs': 'GPL-3.0 or MIT',
   animate: 'Hippocratic-2.1',
+  'blooger-website': 'Apache-2.0',
   bootplus: 'Apache-2.0 or GPL-2.0',
   carbon: 'Apache-2.0',
   'css-diner': 'MPL-2.0',
@@ -93,6 +106,8 @@ const nameLicenseMap = {
   cutestrap2: 'GPL-3.0',
   evil: 'Public Domain',
   'ff-ultima': 'MPL-2.0',
+  finimalism: 'GPL-3.0',
+  'firefox-one': 'MPL-2.0',
   'stackoverflow-dark': 'CC-BY-SA-4.0',
   'github-dark': 'BSD-2-Clause',
   holmes: 'GPL-3.0',
@@ -101,7 +116,9 @@ const nameLicenseMap = {
   'microsoft-metro-buttons': 'CC-BY-3.0',
   missing: 'BSD-2-Clause',
   'obsidian-modular-css-layout': 'GPL-3.0',
+  orgcss: 'MIT or 996ICU',
   'portfolio-template': 'GPL-3.0',
+  'protonmail-themes': 'GPL-3.0',
   pure: 'BSD-3-Clause',
   'pygments-fruity': 'Unlicense',
   remedy: 'MPL-2.0',
@@ -112,8 +129,10 @@ const nameLicenseMap = {
   sierra: 'GPL-2.0',
   'social-signin-buttons': 'Unlicense',
   'the-50-front-end-project-44': 'BSL-1.0',
+  unfold: 'CC-BY-SA-3.0',
   universal: 'WTFPL',
   uswds: 'CC0-1.0',
+  'virtual-bookshelf': 'Unlicense',
   'wikipedia-dark': 'CC-BY-SA-4.0',
   yacy: 'CC-BY-2.0',
   'zotero-dark-theme': 'GPL-3.0'

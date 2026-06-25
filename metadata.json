@@ -1,0 +1,1762 @@
+[
+  {
+    "fileName": "30days30submits-18-v0.0.0.css",
+    "name": "30 Days 30 Submits #18",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 3662,
+    "url": "https://github.com/ShaifArfan/30days30submits/blob/master/day-18/style.css"
+  },
+  {
+    "fileName": "3dtransforms-v0.0.0.css",
+    "name": "3D transforms",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 13822,
+    "url": "https://github.com/desandro/3dtransforms/blob/gh-pages/css/style.css"
+  },
+  {
+    "fileName": "960.gs-v0.0.0.css",
+    "name": "960.gs",
+    "version": "v0.0.0",
+    "license": "GPL-3.0 or MIT",
+    "size": 10071,
+    "url": "https://github.com/nathansmith/960-Grid-System/blob/master/code/css/960.css"
+  },
+  {
+    "fileName": "98-v0.1.18.css",
+    "name": "98",
+    "version": "v0.1.18",
+    "license": "MIT",
+    "size": 23215,
+    "url": "https://github.com/jdan/98.css/blob/main/style.css"
+  },
+  {
+    "fileName": "academicons-v1.9.6.css",
+    "name": "Academicons",
+    "version": "v1.9.6",
+    "license": "MIT",
+    "size": 9334,
+    "url": "https://github.com/jpswalsh/academicons/blob/v1.9.6/css/academicons.css"
+  },
+  {
+    "fileName": "admin-lte-v4.0.0.css",
+    "name": "AdminLTE",
+    "version": "v4.0.0",
+    "license": "MIT",
+    "size": 410009,
+    "url": "https://github.com/ColorlibHQ/AdminLTE/blob/master/dist/css/adminlte.css"
+  },
+  {
+    "fileName": "adminhub-v1.0.0.css",
+    "name": "AdminHub",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 10992,
+    "url": "https://github.com/fajarnurwahid/adminhub/blob/master/style.css"
+  },
+  {
+    "fileName": "amoled-cord-v5.0.11.css",
+    "name": "AMOLED-cord",
+    "version": "v5.0.11",
+    "license": "MIT",
+    "size": 29397,
+    "url": "https://github.com/LuckFire/amoled-cord/blob/main/src/amoled-cord.css"
+  },
+  {
+    "fileName": "animate-v4.1.1.css",
+    "name": "Animate",
+    "version": "v4.1.1",
+    "license": "Hippocratic-2.1",
+    "size": 95448,
+    "url": "https://github.com/animate-css/animate.css/blob/main/animate.css"
+  },
+  {
+    "fileName": "animating-hamburger-icons-v0.1.0.css",
+    "name": "Animating Hamburger Icons",
+    "version": "v0.1.0",
+    "license": "MIT",
+    "size": 14773,
+    "url": "https://github.com/callmenick/Animating-Hamburger-Icons/blob/master/css/style.css"
+  },
+  {
+    "fileName": "animo-v1.0.3.css",
+    "name": "Animo",
+    "version": "v1.0.3",
+    "license": "MIT",
+    "size": 67546,
+    "url": "https://github.com/ThrivingKings/animo.js/blob/master/animate-animo.css"
+  },
+  {
+    "fileName": "animsition-v4.0.2.css",
+    "name": "Animsition",
+    "version": "v4.0.2",
+    "license": "MIT",
+    "size": 38533,
+    "url": "https://github.com/blivesta/animsition/blob/master/dist/css/animsition.css"
+  },
+  {
+    "fileName": "awesome-bootstrap-checkbox-v0.3.7.css",
+    "name": "Awesome Bootstrap Checkbox",
+    "version": "v0.3.7",
+    "license": "MIT",
+    "size": 9178,
+    "url": "https://github.com/flatlogic/awesome-bootstrap-checkbox/blob/master/awesome-bootstrap-checkbox.css"
+  },
+  {
+    "fileName": "balloon-v1.0.0.css",
+    "name": "Balloon",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 7646,
+    "url": "https://github.com/kazzkiq/balloon.css/blob/master/balloon.css"
+  },
+  {
+    "fileName": "basscss-v8.1.0.css",
+    "name": "Basscss",
+    "version": "v8.1.0",
+    "license": "MIT",
+    "size": 47306,
+    "url": "https://app.unpkg.com/basscss@8.1.0/files/css/basscss-important.css"
+  },
+  {
+    "fileName": "beercss-v4.0.21.css",
+    "name": "Beer CSS",
+    "version": "v4.0.21",
+    "license": "MIT",
+    "size": 107117,
+    "url": "https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css"
+  },
+  {
+    "fileName": "blooger-website-v0.0.0.css",
+    "name": "Blooger_Website",
+    "version": "v0.0.0",
+    "license": "Apache-2.0",
+    "size": 10667,
+    "url": "https://github.com/akashyap2013/Blooger_Website/blob/master/css/Style.css"
+  },
+  {
+    "fileName": "blue-topaz-obsidian-v6.0.0.css",
+    "name": "Blue-Topaz Obsidian",
+    "version": "v6.0.0",
+    "license": "MIT",
+    "size": 3215066,
+    "url": "https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css"
+  },
+  {
+    "fileName": "boilerform-v1.1.2.css",
+    "name": "Boilerform",
+    "version": "v1.1.2",
+    "license": "MIT",
+    "size": 5621,
+    "url": "https://github.com/Andy-set-studio/boilerform/blob/master/dist/css/boilerform.css"
+  },
+  {
+    "fileName": "bojler-v3.2.1.css",
+    "name": "Bojler",
+    "version": "v3.2.1",
+    "license": "MIT",
+    "size": 21432,
+    "url": "https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css"
+  },
+  {
+    "fileName": "bootplus-v1.0.5.css",
+    "name": "Bootplus",
+    "version": "v1.0.5",
+    "license": "Apache-2.0 or GPL-2.0",
+    "size": 147199,
+    "url": "https://github.com/aozora/bootplus/blob/master/docs/assets/css/bootplus.css"
+  },
+  {
+    "fileName": "bootstrap-4-v4.6.2.css",
+    "name": "Bootstrap 4",
+    "version": "v4.6.2",
+    "license": "MIT",
+    "size": 200447,
+    "url": "https://github.com/twbs/bootstrap/releases/tag/v4.6.2"
+  },
+  {
+    "fileName": "bootstrap-5-v5.3.8.css",
+    "name": "Bootstrap 5",
+    "version": "v5.3.8",
+    "license": "MIT",
+    "size": 280371,
+    "url": "https://github.com/twbs/bootstrap/releases/tag/v5.3.8"
+  },
+  {
+    "fileName": "bttn-v0.2.4.css",
+    "name": "Bttn",
+    "version": "v0.2.4",
+    "license": "MIT",
+    "size": 42405,
+    "url": "https://github.com/ganapativs/bttn.css/blob/master/dist/bttn.css"
+  },
+  {
+    "fileName": "bulma-v1.0.4.css",
+    "name": "Bulma",
+    "version": "v1.0.4",
+    "license": "MIT",
+    "size": 763985,
+    "url": "https://github.com/jgthms/bulma/blob/main/css/bulma.css"
+  },
+  {
+    "fileName": "carbon-v1.107.0.css",
+    "name": "Carbon",
+    "version": "v1.107.0",
+    "license": "Apache-2.0",
+    "size": 957396,
+    "url": "https://unpkg.com/@carbon/styles@1.107.0/css/styles.css"
+  },
+  {
+    "fileName": "cardinal-v3.7.0.css",
+    "name": "Cardinal",
+    "version": "v3.7.0",
+    "license": "MIT",
+    "size": 160885,
+    "url": "https://github.com/cardinalcss/cardinalcss/blob/master/cardinal.css"
+  },
+  {
+    "fileName": "checka11y-v2.5.0.css",
+    "name": "Checka11y",
+    "version": "v2.5.0",
+    "license": "MIT",
+    "size": 84136,
+    "url": "https://github.com/jackdomleo7/Checka11y.css/blob/master/checka11y.css"
+  },
+  {
+    "fileName": "chota-v0.9.2.css",
+    "name": "Chota",
+    "version": "v0.9.2",
+    "license": "MIT",
+    "size": 24346,
+    "url": "https://github.com/jenil/chota/blob/main/dist/chota.css"
+  },
+  {
+    "fileName": "cirrus-v0.8.0.css",
+    "name": "Cirrus",
+    "version": "v0.8.0",
+    "license": "MIT",
+    "size": 944616,
+    "url": "https://github.com/Spiderpig86/Cirrus/blob/master/dist/cirrus.css"
+  },
+  {
+    "fileName": "classless-v1.0.0.css",
+    "name": "Classless",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 23377,
+    "url": "https://github.com/DigitallyTailored/Classless.css/blob/main/classless.css"
+  },
+  {
+    "fileName": "cleanslate-v0.10.1.css",
+    "name": "CleanSlate",
+    "version": "v0.10.1",
+    "license": "MIT",
+    "size": 20543,
+    "url": "https://github.com/premasagar/cleanslate/blob/master/cleanslate.css"
+  },
+  {
+    "fileName": "clickeffects-v0.0.0.css",
+    "name": "ClickEffects",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 33700,
+    "url": "https://github.com/codrops/ClickEffects/blob/master/css/component.css"
+  },
+  {
+    "fileName": "codyframe-v4.0.9.css",
+    "name": "CodeFrame",
+    "version": "v4.0.9",
+    "license": "MIT",
+    "size": 233791,
+    "url": "https://github.com/codyhouse/codyframe/blob/main/main/css/style.css"
+  },
+  {
+    "fileName": "colofilter-v0.0.0.css",
+    "name": "Colofilter",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 7200,
+    "url": "https://github.com/LukyVj/colofilter.css/blob/master/styles/colofilter.css"
+  },
+  {
+    "fileName": "concise-v4.0.1.css",
+    "name": "Concise",
+    "version": "v4.0.1",
+    "license": "MIT",
+    "size": 17115,
+    "url": "https://unpkg.com/concise.css@4.1.2/dist/concise.css"
+  },
+  {
+    "fileName": "crayon-v1.0.0.css",
+    "name": "Crayon",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 6861,
+    "url": "https://github.com/riccardoscalco/crayon/blob/master/dist/crayon.css"
+  },
+  {
+    "fileName": "crookedstylesheets-v0.0.0.css",
+    "name": "CrookedStyleSheets",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 4812,
+    "url": "https://github.com/jbtronics/CrookedStyleSheets/blob/master/screen.css"
+  },
+  {
+    "fileName": "cs16-v0.0.0.css",
+    "name": "cs16.css",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 23637,
+    "url": "https://github.com/ekmas/cs16.css/blob/main/css/cs16.css"
+  },
+  {
+    "fileName": "css-diner-v0.0.0.css",
+    "name": "CSS Diner",
+    "version": "v0.0.0",
+    "license": "MPL-2.0",
+    "size": 22401,
+    "url": "https://github.com/flukeout/css-diner/blob/develop/css/style.css"
+  },
+  {
+    "fileName": "css-extras-v0.4.0.css",
+    "name": "css-extras",
+    "version": "v0.4.0",
+    "license": "CC0-1.0 or MIT",
+    "size": 23179,
+    "url": "https://github.com/sindresorhus/css-extras/blob/main/index.css"
+  },
+  {
+    "fileName": "css-social-buttons-v1.4.0.css",
+    "name": "CSS Social Buttons",
+    "version": "v1.4.0",
+    "license": "MIT",
+    "size": 49600,
+    "url": "https://github.com/smcllns/css-social-buttons/blob/master/css/zocial.css"
+  },
+  {
+    "fileName": "css-spinners-v2.2.0.css",
+    "name": "CSS Spinners",
+    "version": "v2.2.0",
+    "license": "MIT",
+    "size": 143732,
+    "url": "https://github.com/jlong/css-spinners/blob/master/css/spinners.css"
+  },
+  {
+    "fileName": "css3-buttons-v0.0.0.css",
+    "name": "CSS3 Buttons",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 33324,
+    "url": "https://github.com/ubuwaits/css3-buttons/blob/gh-pages/stylesheets/buttons.css"
+  },
+  {
+    "fileName": "cssco-v1.1.0.css",
+    "name": "CSSCO",
+    "version": "v1.1.0",
+    "license": "MIT",
+    "size": 8141,
+    "url": "https://github.com/laurenwaller/cssco/blob/master/cssco.css"
+  },
+  {
+    "fileName": "cssicon-v1.0.0.css",
+    "name": "cssicon",
+    "version": "v1.0.0",
+    "license": "CC0-1.0",
+    "size": 293460,
+    "url": "https://github.com/wentin/cssicon/tree/master/css"
+  },
+  {
+    "fileName": "cssplot-v0.0.0.css",
+    "name": "CSS Plot",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 28783,
+    "url": "https://github.com/asciimoo/cssplot/blob/master/build/cssplot.full.css"
+  },
+  {
+    "fileName": "csszengarden-215-v0.0.0.css",
+    "name": "CSS Zen Garden #215",
+    "version": "v0.0.0",
+    "license": "CC-BY-NC-SA-1.0",
+    "size": 68766,
+    "url": "https://github.com/mezzoblue/csszengarden.com/blob/master/215/215.css"
+  },
+  {
+    "fileName": "cutestrap1-v1.3.1.css",
+    "name": "Cutestrap1",
+    "version": "v1.3.1",
+    "license": "MIT",
+    "size": 54052,
+    "url": "https://github.com/tylerchilds/cutestrap/blob/v1.3.1/dist/css/cutestrap.css"
+  },
+  {
+    "fileName": "cutestrap2-v2.0.0.css",
+    "name": "Cutestrap2",
+    "version": "v2.0.0",
+    "license": "GPL-3.0",
+    "size": 21522,
+    "url": "https://github.com/tylerchilds/cutestrap/blob/master/dist/css/cutestrap.css"
+  },
+  {
+    "fileName": "destyle-v4.0.1.css",
+    "name": "Destyle",
+    "version": "v4.0.1",
+    "license": "MIT",
+    "size": 6207,
+    "url": "https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css"
+  },
+  {
+    "fileName": "devices-v0.2.0.css",
+    "name": "Devices",
+    "version": "v0.2.0",
+    "license": "MIT",
+    "size": 59353,
+    "url": "https://unpkg.com/devices.css@0.2.0/dist/devices.css"
+  },
+  {
+    "fileName": "doxygen-awesome-v2.4.2.css",
+    "name": "Doxygen Awesome",
+    "version": "v2.4.2",
+    "license": "MIT",
+    "size": 78137,
+    "url": "https://github.com/jothepro/doxygen-awesome-css/blob/main/doxygen-awesome.css"
+  },
+  {
+    "fileName": "effeckt-v0.5.0.css",
+    "name": "Effeckt",
+    "version": "v0.5.0",
+    "license": "MIT",
+    "size": 149859,
+    "url": "https://github.com/h5bp/Effeckt.css/blob/master/css/effeckt.css"
+  },
+  {
+    "fileName": "elegantfin-v25.12.31.css",
+    "name": "ElegantFin",
+    "version": "v25.12.31",
+    "license": "MIT",
+    "size": 96890,
+    "url": "https://github.com/lscambo13/ElegantFin/blob/main/Theme/ElegantFin-theme-v25.12.31.css"
+  },
+  {
+    "fileName": "enferno-v13.1.1.css",
+    "name": "Enferno",
+    "version": "v13.1.1",
+    "license": "MIT",
+    "size": 1558,
+    "url": "https://github.com/level09/enferno/blob/master/enferno/static/css/app.css"
+  },
+  {
+    "fileName": "evil-v0.0.0.css",
+    "name": "Evil",
+    "version": "v0.0.0",
+    "license": "Public Domain",
+    "size": 3609,
+    "url": "https://github.com/tlrobinson/evil.css/blob/master/evil.css"
+  },
+  {
+    "fileName": "facebook-buttons-v1.0.0.css",
+    "name": "Facebook Buttons",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 6738,
+    "url": "https://github.com/necolas/css3-facebook-buttons/blob/master/fb-buttons.css"
+  },
+  {
+    "fileName": "ff-ultima-v4.3.0.css",
+    "name": "FF-Ultima",
+    "version": "v4.3.0",
+    "license": "MPL-2.0",
+    "size": 58548,
+    "url": "https://github.com/soulhotel/FF-ULTIMA/blob/main/theme/ffu-internal-appearance.css"
+  },
+  {
+    "fileName": "fileicon-v0.1.1.css",
+    "name": "Fileicon",
+    "version": "v0.1.1",
+    "license": "MIT",
+    "size": 2765,
+    "url": "https://github.com/picturepan2/fileicon.css/blob/master/fileicon.css"
+  },
+  {
+    "fileName": "finimalism-v12.0.0.css",
+    "name": "Finimalism",
+    "version": "v12.0.0",
+    "license": "GPL-3.0",
+    "size": 189023,
+    "url": "https://github.com/tedhinklater/finimalism/blob/main/Finimalism12.css"
+  },
+  {
+    "fileName": "firefox-one-v3.7.0.css",
+    "name": "Firefox-ONE",
+    "version": "v3.7.0",
+    "license": "MPL-2.0",
+    "size": 7849,
+    "url": "https://github.com/Godiesc/firefox-one/blob/main/TabCenterReborn-insideConfig.css"
+  },
+  {
+    "fileName": "firefox-uwp-style-v0.0.0.css",
+    "name": "Firefox-UWP-Style",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 48593,
+    "url": "https://github.com/Guerra24/Firefox-UWP-Style/blob/nightly/css/base.css"
+  },
+  {
+    "fileName": "flakes-v1.0.1.css",
+    "name": "Flakes",
+    "version": "v1.0.1",
+    "license": "MIT",
+    "size": 244043,
+    "url": "https://github.com/kumailht/flakes/blob/master/css/all.css"
+  },
+  {
+    "fileName": "flex-layout-attribute-v1.0.3.css",
+    "name": "Flex Layout Attribute",
+    "version": "v1.0.3",
+    "license": "MIT",
+    "size": 11109,
+    "url": "https://github.com/StefanKovac/flex-layout-attribute/blob/master/css/flex-layout-attribute.css"
+  },
+  {
+    "fileName": "fluentbird-v1.1.2.css",
+    "name": "FluentBird",
+    "version": "v1.1.2",
+    "license": "MIT",
+    "size": 31068,
+    "url": "https://github.com/Deathbyteacup/fluentbird/blob/main/userChrome.css"
+  },
+  {
+    "fileName": "fomantic-v2.9.4.css",
+    "name": "Fomantic UI",
+    "version": "v2.9.4",
+    "license": "MIT",
+    "size": 2033842,
+    "url": "https://github.com/fomantic/Fomantic-UI/blob/develop/dist/semantic.css"
+  },
+  {
+    "fileName": "font-awesome-v7.2.0.css",
+    "name": "Font Awesome",
+    "version": "v7.2.0",
+    "license": "MIT",
+    "size": 112111,
+    "url": "https://github.com/FortAwesome/Font-Awesome/releases/tag/7.2.0"
+  },
+  {
+    "fileName": "foundation-v6.9.0.css",
+    "name": "Foundation",
+    "version": "v6.9.0",
+    "license": "MIT",
+    "size": 161379,
+    "url": "https://github.com/foundation/foundation-sites/releases/tag/v6.9.0"
+  },
+  {
+    "fileName": "freebies-v0.0.0.css",
+    "name": "Freebies",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 25232,
+    "url": "https://github.com/uisual/freebies/blob/master/curve/style.css"
+  },
+  {
+    "fileName": "furatto-v3.1.1.css",
+    "name": "Furatto",
+    "version": "v3.1.1",
+    "license": "MIT",
+    "size": 96918,
+    "url": "https://github.com/IcaliaLabs/furatto/blob/master/dist/css/furatto.css"
+  },
+  {
+    "fileName": "gallery-v1.0.2.css",
+    "name": "Gallery",
+    "version": "v1.0.2",
+    "license": "MIT",
+    "size": 12092,
+    "url": "https://github.com/benschwarz/gallery-css/blob/master/dist/gallery.prefixed.css"
+  },
+  {
+    "fileName": "github-dark-v6.3.0.css",
+    "name": "GitHub-Dark",
+    "version": "v6.3.0",
+    "license": "BSD-2-Clause",
+    "size": 670623,
+    "url": "https://github.com/StylishThemes/GitHub-Dark/blob/master/github-dark.user.css"
+  },
+  {
+    "fileName": "github-markdown-v5.9.0.css",
+    "name": "GitHub-Markdown",
+    "version": "v5.9.0",
+    "license": "MIT",
+    "size": 31155,
+    "url": "https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css"
+  },
+  {
+    "fileName": "github-windows-v0.6.0.css",
+    "name": "GitHub-Windows",
+    "version": "v0.6.0",
+    "license": "MIT",
+    "size": 30662,
+    "url": "https://github.com/Athari/CssGitHubWindows/blob/master/GitHubWindows.user.css"
+  },
+  {
+    "fileName": "gitweb-theme-v0.0.0.css",
+    "name": "gitweb-theme",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 17177,
+    "url": "https://github.com/kogakure/gitweb-theme/blob/master/gitweb.css"
+  },
+  {
+    "fileName": "google-type-v0.0.0.css",
+    "name": "google-type",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 52291,
+    "url": "https://github.com/femmebot/google-type/blob/master/css/google-type.css"
+  },
+  {
+    "fileName": "gridism-v0.2.2.css",
+    "name": "Gridism",
+    "version": "v0.2.2",
+    "license": "MIT",
+    "size": 3540,
+    "url": "https://github.com/cobyism/gridism/blob/master/gridism.css"
+  },
+  {
+    "fileName": "gridlex-v2.7.1.css",
+    "name": "Gridlex",
+    "version": "v2.7.1",
+    "license": "MIT",
+    "size": 45429,
+    "url": "https://github.com/devlint/gridlex/blob/master/dist/gridlex.css"
+  },
+  {
+    "fileName": "gumby-v2.6.4.css",
+    "name": "Gumby",
+    "version": "v2.6.4",
+    "license": "MIT",
+    "size": 167771,
+    "url": "https://github.com/GumbyFramework/Gumby/blob/master/css/gumby.css"
+  },
+  {
+    "fileName": "gutenberg-v0.7.0.css",
+    "name": "Gutenberg",
+    "version": "v0.7.0",
+    "license": "MIT",
+    "size": 10210,
+    "url": "https://github.com/BafS/Gutenberg/blob/master/dist/gutenberg.css"
+  },
+  {
+    "fileName": "halfmoon-v2.0.2.css",
+    "name": "Halfmoon",
+    "version": "v2.0.2",
+    "license": "MIT",
+    "size": 462800,
+    "url": "https://github.com/halfmoonui/halfmoon/blob/master/css/halfmoon.css"
+  },
+  {
+    "fileName": "halfstyle-v2.0.2.css",
+    "name": "HalfStyle",
+    "version": "v2.0.2",
+    "license": "MIT",
+    "size": 7545,
+    "url": "https://github.com/arbelh/HalfStyle/blob/master/css/halfstyle.css"
+  },
+  {
+    "fileName": "hint-v3.0.0.css",
+    "name": "Hint",
+    "version": "v3.0.0",
+    "license": "MIT",
+    "size": 10896,
+    "url": "https://github.com/chinchang/hint.css/blob/master/hint.css"
+  },
+  {
+    "fileName": "holmes-v6.8.12.css",
+    "name": "Holmes",
+    "version": "v6.8.12",
+    "license": "GPL-3.0",
+    "size": 12527,
+    "url": "https://github.com/redroot/holmes/blob/master/holmes.css"
+  },
+  {
+    "fileName": "hover-buttons-v0.15.0.css",
+    "name": "Hover Buttons",
+    "version": "v0.15.0",
+    "license": "MIT",
+    "size": 53032,
+    "url": "https://github.com/Varin6/Hover-Buttons/blob/master/css/hoverbuttons.css"
+  },
+  {
+    "fileName": "html-sheets-of-paper-v0.0.0.css",
+    "name": "HTML Sheets of Paper",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 5328,
+    "url": "https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper.css"
+  },
+  {
+    "fileName": "hugo-universal-theme-v1.4.1.css",
+    "name": "Hugo Universal Theme",
+    "version": "v1.4.1",
+    "license": "MIT",
+    "size": 77634,
+    "url": "https://github.com/devcows/hugo-universal-theme/blob/master/static/css/style.default.css"
+  },
+  {
+    "fileName": "icon-hover-effects-v0.0.0.css",
+    "name": "Icon Hover Effects",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 16410,
+    "url": "https://github.com/codrops/IconHoverEffects/blob/master/css/component.css"
+  },
+  {
+    "fileName": "instagram-v0.1.4.css",
+    "name": "Instagram.css",
+    "version": "v0.1.4",
+    "license": "MIT",
+    "size": 15138,
+    "url": "https://github.com/picturepan2/instagram.css/blob/master/dist/instagram.css"
+  },
+  {
+    "fileName": "jupyter-themes-v0.20.0.css",
+    "name": "Jupyter Themes",
+    "version": "v0.20.0",
+    "license": "MIT",
+    "size": 72823,
+    "url": "https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/gruvboxd.css"
+  },
+  {
+    "fileName": "justified-v0.0.0.css",
+    "name": "Justified",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 280,
+    "url": "https://github.com/nitinhayaran/Justified.js/blob/master/jquery.justified.css"
+  },
+  {
+    "fileName": "kickoff-v8.0.0.css",
+    "name": "Kickoff",
+    "version": "v8.0.0",
+    "license": "MIT",
+    "size": 255583,
+    "url": "https://github.com/TryKickoff/kickoff/blob/master/assets/dist/css/styleguide.css"
+  },
+  {
+    "fileName": "knacss-v8.2.0.css",
+    "name": "KNACSS",
+    "version": "v8.2.0",
+    "license": "WTFPL",
+    "size": 31542,
+    "url": "https://github.com/alsacreations/KNACSS/blob/master/assets/css/natives.css"
+  },
+  {
+    "fileName": "less-framework-v0.0.0.css",
+    "name": "Less Framework",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 3724,
+    "url": "https://github.com/jonikorpi/Less-Framework/blob/master/main-17px.css"
+  },
+  {
+    "fileName": "linktree-v0.0.0.css",
+    "name": "Linktree",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 45865,
+    "url": "https://github.com/johnggli/linktree/blob/master/style.css"
+  },
+  {
+    "fileName": "littlebox-v0.0.4.css",
+    "name": "littlebox",
+    "version": "v0.0.4",
+    "license": "MIT",
+    "size": 130502,
+    "url": "https://github.com/cmaddux/littlebox/blob/master/lib/littlebox.css"
+  },
+  {
+    "fileName": "load-awesome-v1.1.0.css",
+    "name": "Load Awesome",
+    "version": "v1.1.0",
+    "license": "MIT",
+    "size": 190249,
+    "url": "https://labs.danielcardoso.net/load-awesome/assets/loaders.css"
+  },
+  {
+    "fileName": "loaders-v0.1.2.css",
+    "name": "Loaders",
+    "version": "v0.1.2",
+    "license": "MIT",
+    "size": 56585,
+    "url": "https://github.com/ConnorAtherton/loaders.css/blob/master/loaders.css"
+  },
+  {
+    "fileName": "luxbar-v0.3.0.css",
+    "name": "Luxbar",
+    "version": "v0.3.0",
+    "license": "MIT",
+    "size": 8327,
+    "url": "https://github.com/balzss/luxbar/blob/master/build/luxbar.css"
+  },
+  {
+    "fileName": "lynx-v1.4.0.css",
+    "name": "Lynx",
+    "version": "v1.4.0",
+    "license": "MIT",
+    "size": 33367,
+    "url": "https://github.com/jpanther/lynx/blob/dev/assets/css/compiled/main.css"
+  },
+  {
+    "fileName": "markdown-css-v0.0.0.css",
+    "name": "markdown-css",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 3764,
+    "url": "https://github.com/mrcoles/markdown-css/blob/master/markdown.css"
+  },
+  {
+    "fileName": "material-for-bootstrap-v4.1.1.css",
+    "name": "Material for Bootstrap",
+    "version": "v4.1.1",
+    "license": "MIT",
+    "size": 311735,
+    "url": "https://github.com/Daemonite/material/blob/master/css/material.css"
+  },
+  {
+    "fileName": "medium.css-v1.0.2.css",
+    "name": "medium.css",
+    "version": "v1.0.2",
+    "license": "MIT",
+    "size": 5488,
+    "url": "https://github.com/lucagez/medium.css/blob/master/demo/src/medium_extended.css"
+  },
+  {
+    "fileName": "meyer-v2.0.0.css",
+    "name": "Meyer",
+    "version": "v2.0.0",
+    "license": "Public Domain",
+    "size": 1165,
+    "url": "https://meyerweb.com/eric/tools/css/reset/reset.css"
+  },
+  {
+    "fileName": "microsoft-metro-buttons-v1.2.0.css",
+    "name": "Microsoft Metro Buttons",
+    "version": "v1.2.0",
+    "license": "CC-BY-3.0",
+    "size": 20547,
+    "url": "https://github.com/ace-subido/css3-microsoft-metro-buttons#license"
+  },
+  {
+    "fileName": "microtip-v0.2.2.css",
+    "name": "Microtip",
+    "version": "v0.2.2",
+    "license": "MIT",
+    "size": 8602,
+    "url": "https://github.com/ghosh/microtip/blob/master/microtip.css"
+  },
+  {
+    "fileName": "mini-v3.0.1.css",
+    "name": "Mini",
+    "version": "v3.0.1",
+    "license": "MIT",
+    "size": 56020,
+    "url": "https://github.com/Chalarangelo/mini.css/blob/master/dist/mini-dark.css"
+  },
+  {
+    "fileName": "minireset-v0.0.7.css",
+    "name": "Mini Reset",
+    "version": "v0.0.7",
+    "license": "MIT",
+    "size": 680,
+    "url": "https://unpkg.com/minireset.css@0.0.7/minireset.css"
+  },
+  {
+    "fileName": "missing-v1.3.0.css",
+    "name": "Missing",
+    "version": "v1.3.0",
+    "license": "BSD-2-Clause",
+    "size": 76075,
+    "url": "https://unpkg.com/missing.css@1.3.0/dist/missing.css"
+  },
+  {
+    "fileName": "mobi-v3.1.1.css",
+    "name": "Mobi",
+    "version": "v3.1.1",
+    "license": "MIT",
+    "size": 13881,
+    "url": "https://github.com/mobi-css/mobi.css/blob/master/packages/mobi.css/dist/mobi.css"
+  },
+  {
+    "fileName": "mocka-v1.0.1.css",
+    "name": "Mocka",
+    "version": "v1.0.1",
+    "license": "MIT",
+    "size": 2868,
+    "url": "https://github.com/Chalarangelo/mocka/blob/master/dist/mocka.css"
+  },
+  {
+    "fileName": "modern-css-resets-v1.4.0.css",
+    "name": "Modern CSS Resets",
+    "version": "v1.4.0",
+    "license": "MIT",
+    "size": 1307,
+    "url": "https://github.com/Andy-set-studio/modern-css-reset/blob/master/dist/reset.css"
+  },
+  {
+    "fileName": "mvcss-v4.1.0.css",
+    "name": "MVCSS",
+    "version": "v4.1.0",
+    "license": "MIT",
+    "size": 24333,
+    "url": "https://github.com/mvcss/mvcss/blob/master/build/css/application.css"
+  },
+  {
+    "fileName": "mvp-v1.17.3.css",
+    "name": "MVP",
+    "version": "v1.17.3",
+    "license": "MIT",
+    "size": 10327,
+    "url": "https://github.com/andybrewer/mvp/blob/master/mvp.css"
+  },
+  {
+    "fileName": "my-internet-v1.0.0.css",
+    "name": "My Internet",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 17831,
+    "url": "https://github.com/sameerasw/my-internet/blob/main/nordChrome.css"
+  },
+  {
+    "fileName": "natural-selection-v0.0.0.css",
+    "name": "Natural Selection",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 6583,
+    "url": "https://github.com/frontaid/natural-selection/blob/main/boilerplate.css"
+  },
+  {
+    "fileName": "nes-v2.3.0.css",
+    "name": "NES.css",
+    "version": "v2.3.0",
+    "license": "MIT",
+    "size": 308296,
+    "url": "https://unpkg.com/nes.css@2.3.0/css/nes.css"
+  },
+  {
+    "fileName": "normalize-v8.0.1.css",
+    "name": "Normalize",
+    "version": "v8.0.1",
+    "license": "MIT",
+    "size": 6211,
+    "url": "https://github.com/necolas/normalize.css/blob/master/normalize.css"
+  },
+  {
+    "fileName": "object-fit-polyfill-v0.3.4.css",
+    "name": "object-fit Polyfill",
+    "version": "v0.3.4",
+    "license": "MIT",
+    "size": 2121,
+    "url": "https://github.com/anselmh/object-fit/blob/master/dist/polyfill.object-fit.css"
+  },
+  {
+    "fileName": "obnoxious-v3.5.2.css",
+    "name": "Obnoxious",
+    "version": "v3.5.2",
+    "license": "MIT",
+    "size": 19868,
+    "url": "https://github.com/tholman/obnoxious.css/blob/master/obnoxious.css"
+  },
+  {
+    "fileName": "obsidian-colored-sidebar-v2.0.0.css",
+    "name": "Obsidian Colored Sidebar",
+    "version": "v2.0.0",
+    "license": "MIT",
+    "size": 17915,
+    "url": "https://github.com/CyanVoxel/Obsidian-Colored-Sidebar/blob/main/Colored%20Sidebar%20Items.css"
+  },
+  {
+    "fileName": "obsidian-modular-css-layout-v0.10.0.css",
+    "name": "Obsidian Modular CSS Layout",
+    "version": "v0.10.0",
+    "license": "GPL-3.0",
+    "size": 43314,
+    "url": "https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css"
+  },
+  {
+    "fileName": "obsidian-notebook-themes-v2.2.3.css",
+    "name": "Obsidian Notebook Themes",
+    "version": "v2.2.3",
+    "license": "MIT",
+    "size": 8668,
+    "url": "https://github.com/CyanVoxel/Obsidian-Notebook-Themes/blob/main/Notebook%20Backgrounds.css"
+  },
+  {
+    "fileName": "off-canvas-menu-effects-v0.0.0.css",
+    "name": "OffCanvasMenuEffects",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 13996,
+    "url": "https://github.com/codrops/OffCanvasMenuEffects/blob/master/css/menu_cornermorph.css"
+  },
+  {
+    "fileName": "orbit-v1.4.11.css",
+    "name": "Orbit",
+    "version": "v1.4.11",
+    "license": "MIT",
+    "size": 156028,
+    "url": "https://unpkg.com/@zumer/orbit@1.4.11/dist/orbit.css"
+  },
+  {
+    "fileName": "orgcss-v9.2.3.css",
+    "name": "OrgCSS",
+    "version": "v9.2.3",
+    "license": "MIT or 996ICU",
+    "size": 50112,
+    "url": "https://github.com/gongzhitaao/orgcss/blob/master/src/css/org-default.css"
+  },
+  {
+    "fileName": "paper-v0.4.1.css",
+    "name": "Paper",
+    "version": "v0.4.1",
+    "license": "MIT",
+    "size": 1587,
+    "url": "https://github.com/cognitom/paper-css/blob/master/paper.css"
+  },
+  {
+    "fileName": "patternbolt-v0.0.0.css",
+    "name": "PatternBolt",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 552654,
+    "url": "https://github.com/buseca/patternbolt/blob/gh-pages/css/style-demo.css"
+  },
+  {
+    "fileName": "patternfly-v6.5.2.css",
+    "name": "PatternFly",
+    "version": "v6.5.2",
+    "license": "MIT",
+    "size": 1976841,
+    "url": "https://unpkg.com/@patternfly/patternfly@6.5.2/patternfly.css"
+  },
+  {
+    "fileName": "pesticide-v1.3.0.css",
+    "name": "Pesticide",
+    "version": "v1.3.0",
+    "license": "MIT",
+    "size": 20149,
+    "url": "https://github.com/mrmrs/pesticide/blob/main/css/pesticide.css"
+  },
+  {
+    "fileName": "phonon-v1.5.1.css",
+    "name": "Phonon",
+    "version": "v1.5.1",
+    "license": "MIT",
+    "size": 159930,
+    "url": "https://github.com/phonon-framework/phonon/blob/master/dist/css/phonon.css"
+  },
+  {
+    "fileName": "photon-v0.1.2.css",
+    "name": "Photon",
+    "version": "v0.1.2",
+    "license": "MIT",
+    "size": 33302,
+    "url": "https://github.com/connors/photon/blob/master/dist/css/photon.css"
+  },
+  {
+    "fileName": "picnic-v7.1.0.css",
+    "name": "Picnic",
+    "version": "v7.1.0",
+    "license": "MIT",
+    "size": 58874,
+    "url": "https://cdn.jsdelivr.net/npm/picnic@7.1.0/picnic.css"
+  },
+  {
+    "fileName": "pico-v2.1.1.css",
+    "name": "Pico",
+    "version": "v2.1.1",
+    "license": "MIT",
+    "size": 97146,
+    "url": "https://github.com/picocss/pico/blob/main/css/pico.conditional.css"
+  },
+  {
+    "fileName": "pills-v1.0.1.css",
+    "name": "Pills",
+    "version": "v1.0.1",
+    "license": "MIT",
+    "size": 6179,
+    "url": "https://github.com/rohitkrai03/pills/blob/gh-pages/dist/pills.css"
+  },
+  {
+    "fileName": "portfolio-template-v0.0.0.css",
+    "name": "Portfolio Template",
+    "version": "v0.0.0",
+    "license": "GPL-3.0",
+    "size": 10994,
+    "url": "https://github.com/nisarhassan12/portfolio-template/blob/master/index.css"
+  },
+  {
+    "fileName": "preboot-v2.0.0.css",
+    "name": "Preboot",
+    "version": "v2.0.0",
+    "license": "MIT",
+    "size": 17079,
+    "url": "https://github.com/mdo/preboot/blob/gh-pages/css/docs-compiled.css"
+  },
+  {
+    "fileName": "pretty-checkbox-v3.0.3.css",
+    "name": "Pretty Checkbox",
+    "version": "v3.0.3",
+    "license": "MIT",
+    "size": 22720,
+    "url": "https://github.com/lokesh-coder/pretty-checkbox/blob/master/dist/pretty-checkbox.css"
+  },
+  {
+    "fileName": "progress-tracker-v3.0.0.css",
+    "name": "Progress Tracker",
+    "version": "v3.0.0",
+    "license": "MIT",
+    "size": 9391,
+    "url": "https://github.com/NigelOToole/progress-tracker/blob/master/src/styles/progress-tracker.css"
+  },
+  {
+    "fileName": "protonmail-themes-v4.0.8.css",
+    "name": "ProtonMail Themes",
+    "version": "v4.0.8",
+    "license": "GPL-3.0",
+    "size": 8606,
+    "url": "https://github.com/csalmeida/protonmail-themes/blob/main/themes/ochin/ochin.css"
+  },
+  {
+    "fileName": "proxmorph-v2.7.3.css",
+    "name": "ProxMorph",
+    "version": "v2.7.3",
+    "license": "MIT",
+    "size": 117676,
+    "url": "https://github.com/IT-BAER/proxmorph/blob/main/themes/theme-unifi.css"
+  },
+  {
+    "fileName": "pure-v3.0.0.css",
+    "name": "Pure",
+    "version": "v3.0.0",
+    "license": "BSD-3-Clause",
+    "size": 26271,
+    "url": "https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure.css"
+  },
+  {
+    "fileName": "pygments-fruity-v1.0.0.css",
+    "name": "Pygments Fruity",
+    "version": "v1.0.0",
+    "license": "Unlicense",
+    "size": 5170,
+    "url": "https://github.com/richleland/pygments-css/blob/master/fruity.css"
+  },
+  {
+    "fileName": "ratchet-v2.0.2.css",
+    "name": "Ratchet",
+    "version": "v2.0.2",
+    "license": "MIT",
+    "size": 24934,
+    "url": "https://github.com/twbs/ratchet/blob/master/dist/css/ratchet.css"
+  },
+  {
+    "fileName": "remedy-quotes-v0.1.0.css",
+    "name": "Remedy Quotes",
+    "version": "v0.1.0",
+    "license": "MPL-2.0",
+    "size": 23335,
+    "url": "https://github.com/jensimmons/cssremedy/blob/master/css/quotes.css"
+  },
+  {
+    "fileName": "remedy-v0.1.0.css",
+    "name": "Remedy",
+    "version": "v0.1.0",
+    "license": "MPL-2.0",
+    "size": 4111,
+    "url": "https://github.com/jensimmons/cssremedy/blob/master/css/remedy.css"
+  },
+  {
+    "fileName": "repaintless-v1.4.0.css",
+    "name": "Repaintless",
+    "version": "v1.4.0",
+    "license": "MIT",
+    "size": 16080,
+    "url": "https://github.com/szynszyliszys/repaintless/blob/master/repaintless-css/repaintless.css"
+  },
+  {
+    "fileName": "reset-v1.0.2.css",
+    "name": "Reset",
+    "version": "v1.0.2",
+    "license": "MIT",
+    "size": 2480,
+    "url": "https://github.com/Anurella/reset-css/blob/main/reset.css"
+  },
+  {
+    "fileName": "responsive-4-v4.1.4.css",
+    "name": "Responsive 4",
+    "version": "v4.1.4",
+    "license": "MIT",
+    "size": 70970,
+    "url": "https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/v4/responsive.css"
+  },
+  {
+    "fileName": "responsive-5-v5.0.0.css",
+    "name": "Responsive 5",
+    "version": "v5.0.0",
+    "license": "MIT",
+    "size": 63210,
+    "url": "https://github.com/ResponsiveBP/Responsive/blob/v5-dev/dist/responsive.css"
+  },
+  {
+    "fileName": "ress-v5.0.2.css",
+    "name": "Ress",
+    "version": "v5.0.2",
+    "license": "MIT",
+    "size": 6837,
+    "url": "https://github.com/filipelinhares/ress/blob/master/ress.css"
+  },
+  {
+    "fileName": "rippleui-v1.12.1.css",
+    "name": "Ripple UI",
+    "version": "v1.12.1",
+    "license": "MIT",
+    "size": 4740807,
+    "url": "https://unpkg.com/rippleui@1.12.1/dist/css/styles.css"
+  },
+  {
+    "fileName": "sakura-v1.5.1.css",
+    "name": "Sakura",
+    "version": "v1.5.1",
+    "license": "MIT",
+    "size": 4165,
+    "url": "https://github.com/oxalorg/sakura/blob/master/css/sakura.css"
+  },
+  {
+    "fileName": "sanitize-v13.0.0.css",
+    "name": "Sanitize",
+    "version": "v13.0.0",
+    "license": "CC0-1.0",
+    "size": 7337,
+    "url": "https://github.com/csstools/sanitize.css/blob/main/sanitize.css"
+  },
+  {
+    "fileName": "sapc-apca-v0.0.0.css",
+    "name": "SAPC-APCA",
+    "version": "v0.0.0",
+    "license": "AGPL-3.0",
+    "size": 137189,
+    "url": "https://github.com/Myndex/SAPC-APCA/blob/master/CSS/MyndexbDark.css"
+  },
+  {
+    "fileName": "select-v3.2.0.css",
+    "name": "Select",
+    "version": "v3.2.0",
+    "license": "MIT",
+    "size": 3242,
+    "url": "https://github.com/filamentgroup/select-css/blob/master/src/select-css.css"
+  },
+  {
+    "fileName": "select2-bootstrap-v1.2.5.css",
+    "name": "Select2 Bootstrap",
+    "version": "v1.2.5",
+    "license": "MIT",
+    "size": 3076,
+    "url": "https://github.com/t0m/select2-bootstrap-css/blob/master/select2-bootstrap.css"
+  },
+  {
+    "fileName": "semantic-v2.5.0.css",
+    "name": "Semantic UI",
+    "version": "v2.5.0",
+    "license": "MIT",
+    "size": 752168,
+    "url": "https://github.com/Semantic-Org/Semantic-UI/blob/master/dist/semantic.css"
+  },
+  {
+    "fileName": "shards-v3.0.0.css",
+    "name": "Shards",
+    "version": "v3.0.0",
+    "license": "MIT",
+    "size": 113328,
+    "url": "https://github.com/DesignRevision/shards-ui/blob/master/dist/css/shards.css"
+  },
+  {
+    "fileName": "shina-fox-v0.1.0.css",
+    "name": "Shina Fox",
+    "version": "v0.1.0",
+    "license": "MPL-2.0",
+    "size": 30952,
+    "url": "https://github.com/Shina-SG/Shina-Fox/blob/main/userChrome.css"
+  },
+  {
+    "fileName": "sierra-v3.5.0.css",
+    "name": "Sierra",
+    "version": "v3.5.0",
+    "license": "GPL-2.0",
+    "size": 51706,
+    "url": "https://unpkg.com/sierra-library@3.5.0/dist/sierra.css"
+  },
+  {
+    "fileName": "simple-grid-v0.0.0.css",
+    "name": "Simple Grid",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 2588,
+    "url": "https://github.com/zachacole/Simple-Grid/blob/master/simple-grid.css"
+  },
+  {
+    "fileName": "simple-line-icons-v2.5.4.css",
+    "name": "Simple Line Icons",
+    "version": "v2.5.4",
+    "license": "MIT",
+    "size": 13072,
+    "url": "https://github.com/thesabbir/simple-line-icons/blob/master/dist/styles/simple-line-icons.css"
+  },
+  {
+    "fileName": "simple-v2.3.7.css",
+    "name": "Simple",
+    "version": "v2.3.7",
+    "license": "MIT",
+    "size": 14162,
+    "url": "https://codeberg.org/kevquirk/simple.css/src/branch/main/simple.css"
+  },
+  {
+    "fileName": "simptip-v1.0.4.css",
+    "name": "SimpTip",
+    "version": "v1.0.4",
+    "license": "MIT",
+    "size": 13028,
+    "url": "https://github.com/arashmanteghi/simptip/blob/master/simptip.css"
+  },
+  {
+    "fileName": "skeleton-v2.0.4.css",
+    "name": "Skeleton",
+    "version": "v2.0.4",
+    "license": "MIT",
+    "size": 11519,
+    "url": "https://github.com/dhg/Skeleton/blob/master/css/skeleton.css"
+  },
+  {
+    "fileName": "slitslider-v1.1.0.css",
+    "name": "SlitSlider",
+    "version": "v1.1.0",
+    "license": "MIT",
+    "size": 2240,
+    "url": "https://github.com/codrops/SlitSlider/blob/master/css/style.css"
+  },
+  {
+    "fileName": "social-signin-buttons-v0.0.0.css",
+    "name": "Social Sign-in Buttons",
+    "version": "v0.0.0",
+    "license": "Unlicense",
+    "size": 9486,
+    "url": "https://github.com/necolas/css3-social-signin-buttons/blob/gh-pages/auth-buttons.css"
+  },
+  {
+    "fileName": "spcss-v0.9.0.css",
+    "name": "SPCSS",
+    "version": "v0.9.0",
+    "license": "MIT",
+    "size": 1847,
+    "url": "https://github.com/susam/spcss/blob/main/sp.css"
+  },
+  {
+    "fileName": "spectre-v0.5.9.css",
+    "name": "Spectre",
+    "version": "v0.5.9",
+    "license": "MIT",
+    "size": 62434,
+    "url": "https://github.com/picturepan2/spectre/blob/master/dist/spectre.css"
+  },
+  {
+    "fileName": "spicetify-bloom-v0.0.0.css",
+    "name": "Spicetify Bloom",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 79762,
+    "url": "https://github.com/nimsandu/spicetify-bloom/blob/main/src/user.css"
+  },
+  {
+    "fileName": "spicetify-dribbblish-v0.0.0.css",
+    "name": "Spicetify Dribbblish",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 25947,
+    "url": "https://github.com/spicetify/spicetify-themes/blob/master/Dribbblish/user.css"
+  },
+  {
+    "fileName": "spicetify-text-v0.0.0.css",
+    "name": "Spicetify Text",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 35228,
+    "url": "https://github.com/spicetify/spicetify-themes/blob/master/text/user.css"
+  },
+  {
+    "fileName": "spinkit-v2.0.1.css",
+    "name": "Spinkit",
+    "version": "v2.0.1",
+    "license": "MIT",
+    "size": 14852,
+    "url": "https://github.com/tobiasahlin/SpinKit/blob/master/spinkit.css"
+  },
+  {
+    "fileName": "stackicons-v1.13.0.css",
+    "name": "Stackicons",
+    "version": "v1.13.0",
+    "license": "MIT",
+    "size": 1056018,
+    "url": "https://github.com/parkerbennett/stackicons/blob/master/css/stackicons-social.css"
+  },
+  {
+    "fileName": "stackoverflow-dark-v5.1.2.css",
+    "name": "StackOverflow-Dark",
+    "version": "v5.1.2",
+    "license": "CC-BY-SA-4.0",
+    "size": 182659,
+    "url": "https://github.com/StylishThemes/StackOverflow-Dark/blob/v5.1.2/stackoverflow-dark.user.css"
+  },
+  {
+    "fileName": "stacks-v2.8.6.css",
+    "name": "Stacks",
+    "version": "v2.8.6",
+    "license": "MIT",
+    "size": 620401,
+    "url": "https://unpkg.com/@stackoverflow/stacks@2.8.6/dist/css/stacks.css"
+  },
+  {
+    "fileName": "swagger-ui-themes-2-v2.1.0.css",
+    "name": "Swagger UI Themes 2",
+    "version": "v2.1.0",
+    "license": "MIT",
+    "size": 59903,
+    "url": "https://github.com/ostranme/swagger-ui-themes/blob/develop/themes/2.x/theme-monokai.css"
+  },
+  {
+    "fileName": "swagger-ui-themes-3-v3.0.1.css",
+    "name": "Swagger UI Themes 3",
+    "version": "v3.0.1",
+    "license": "MIT",
+    "size": 36136,
+    "url": "https://github.com/ostranme/swagger-ui-themes/blob/develop/themes/3.x/theme-monokai.css"
+  },
+  {
+    "fileName": "system-v0.1.11.css",
+    "name": "System",
+    "version": "v0.1.11",
+    "license": "MIT",
+    "size": 17738,
+    "url": "https://github.com/sakofchit/system.css/blob/main/style.css"
+  },
+  {
+    "fileName": "tablecloth-v1.0.0.css",
+    "name": "Tablecloth",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 11124,
+    "url": "https://github.com/bwsewell/tablecloth/blob/master/assets/css/tablecloth.css"
+  },
+  {
+    "fileName": "tachyons-v4.12.0.css",
+    "name": "Tachyons",
+    "version": "v4.12.0",
+    "license": "MIT",
+    "size": 115057,
+    "url": "https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css"
+  },
+  {
+    "fileName": "tailwind-cards-v0.0.0.css",
+    "name": "Tailwind Cards",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 4793489,
+    "url": "https://github.com/hasinhayder/tailwind-cards/blob/master/tailwind.css"
+  },
+  {
+    "fileName": "tailwind-v2.2.19.css",
+    "name": "Tailwind",
+    "version": "v2.2.19",
+    "license": "MIT",
+    "size": 3642412,
+    "url": "https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css"
+  },
+  {
+    "fileName": "the-50-front-end-project-44-v0.0.0.css",
+    "name": "The 50 Front-end Project #44",
+    "version": "v0.0.0",
+    "license": "BSL-1.0",
+    "size": 9583,
+    "url": "https://github.com/SudeepAcharjee/The-50-Front-end-Project/blob/main/44.Admin%20panel%20Dashboard/Admin%20Dashboard%20Panel/style.css"
+  },
+  {
+    "fileName": "the-new-css-reset-v1.11.3.css",
+    "name": "The New CSS Reset",
+    "version": "v1.11.3",
+    "license": "MIT",
+    "size": 2977,
+    "url": "https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css"
+  },
+  {
+    "fileName": "toast-v1.1.0.css",
+    "name": "Toast",
+    "version": "v1.1.0",
+    "license": "MIT",
+    "size": 7342,
+    "url": "https://github.com/daneden/Toast/blob/master/css/grid.css"
+  },
+  {
+    "fileName": "tocas-v5.7.0.css",
+    "name": "Tocas",
+    "version": "v5.7.0",
+    "license": "MIT",
+    "size": 406848,
+    "url": "https://github.com/teacat/tocas/blob/master/dist/tocas.css"
+  },
+  {
+    "fileName": "tooltip-twispy-v1.0.6.css",
+    "name": "Tooltip Twispy",
+    "version": "v1.0.6",
+    "license": "MIT",
+    "size": 6378,
+    "url": "https://github.com/HubSpot/tooltip/blob/master/dist/css/tooltip-theme-twipsy.css"
+  },
+  {
+    "fileName": "tootik-v1.0.2.css",
+    "name": "Tootik",
+    "version": "v1.0.2",
+    "license": "MIT",
+    "size": 44368,
+    "url": "https://github.com/eliortabeka/tootik/blob/master/css/tootik.css"
+  },
+  {
+    "fileName": "tuesday-v1.3.0.css",
+    "name": "Tuesday",
+    "version": "v1.3.0",
+    "license": "MIT",
+    "size": 27216,
+    "url": "https://github.com/shakrmedia/tuesday/blob/master/build/tuesday.css"
+  },
+  {
+    "fileName": "tufte-v1.8.0.css",
+    "name": "Tufte",
+    "version": "v1.8.0",
+    "license": "MIT",
+    "size": 11262,
+    "url": "https://unpkg.com/tufte-css@1.8.0/tufte.css"
+  },
+  {
+    "fileName": "tui-v2.1.2.css",
+    "name": "Tui",
+    "version": "v2.1.2",
+    "license": "MIT",
+    "size": 46375,
+    "url": "https://github.com/vinibiavatti1/TuiCss/blob/master/dist/tuicss.css"
+  },
+  {
+    "fileName": "tw-animate-css-v1.4.0.css",
+    "name": "tw-animate-css",
+    "version": "v1.4.0",
+    "license": "MIT",
+    "size": 17504,
+    "url": "https://github.com/Wombosvideo/tw-animate-css/blob/main/src/tw-animate.css"
+  },
+  {
+    "fileName": "uikit-v3.25.17.css",
+    "name": "UIkit",
+    "version": "v3.25.17",
+    "license": "MIT",
+    "size": 400799,
+    "url": "https://github.com/uikit/uikit/blob/develop/dist/css/uikit.css"
+  },
+  {
+    "fileName": "unfold-v0.0.0.css",
+    "name": "Unfold",
+    "version": "v0.0.0",
+    "license": "CC-BY-SA-3.0",
+    "size": 90068,
+    "url": "https://github.com/rupl/unfold/blob/master/css/main.css"
+  },
+  {
+    "fileName": "universal-v0.0.0.css",
+    "name": "Universal.css",
+    "version": "v0.0.0",
+    "license": "WTFPL",
+    "size": 5020766,
+    "url": "https://raw.githubusercontent.com/marmelab/universal.css/refs/heads/master/universal.css"
+  },
+  {
+    "fileName": "uswds-v3.13.0.css",
+    "name": "USWDS",
+    "version": "v3.13.0",
+    "license": "CC0-1.0",
+    "size": 652690,
+    "url": "https://unpkg.com/@uswds/uswds@3.13.0/dist/css/uswds.css"
+  },
+  {
+    "fileName": "utility-opentype-v0.1.4.css",
+    "name": "Utility OpenType",
+    "version": "v0.1.4",
+    "license": "MIT",
+    "size": 12980,
+    "url": "https://github.com/kennethormandy/utility-opentype/blob/master/css/utility-opentype.css"
+  },
+  {
+    "fileName": "vim-css3-syntax-v2.10.0.css",
+    "name": "Vim CSS3 Syntax",
+    "version": "v2.10.0",
+    "license": "MIT",
+    "size": 32291,
+    "url": "https://github.com/hail2u/vim-css3-syntax/blob/main/test/test.css"
+  },
+  {
+    "fileName": "virtual-bookshelf-v1.1.0.css",
+    "name": "Virtual Bookshelf",
+    "version": "v1.1.0",
+    "license": "Unlicense",
+    "size": 5068,
+    "url": "https://github.com/petargyurov/virtual-bookshelf/blob/main/bookshelf.css"
+  },
+  {
+    "fileName": "vitepress-v1.6.4.css",
+    "name": "VitePress",
+    "version": "v1.6.4",
+    "license": "MIT",
+    "size": 12317,
+    "url": "https://github.com/vuejs/vitepress/blob/v1.6.4/src/client/theme-default/styles/components/vp-doc.css"
+  },
+  {
+    "fileName": "vivify-v1.0.0.css",
+    "name": "Vivify",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 71770,
+    "url": "https://github.com/Martz90/vivify/blob/master/vivify.css"
+  },
+  {
+    "fileName": "voxels-v1.0.0.css",
+    "name": "Voxels",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 4808,
+    "url": "https://github.com/HunterLarco/voxel.css/blob/master/src/voxel.css"
+  },
+  {
+    "fileName": "w3css-v4.10.0.css",
+    "name": "w3css",
+    "version": "v4.10.0",
+    "license": "MIT",
+    "size": 23124,
+    "url": "https://github.com/JaniRefsnes/w3css/blob/master/w3.css"
+  },
+  {
+    "fileName": "waffle-grid-v1.3.6.css",
+    "name": "Waffle Grid",
+    "version": "v1.3.6",
+    "license": "MIT",
+    "size": 8804,
+    "url": "https://github.com/pr1mer-tech/waffle-grid/blob/master/dist/waffle-grid.css"
+  },
+  {
+    "fileName": "water-v2.1.1.css",
+    "name": "Water",
+    "version": "v2.1.1",
+    "license": "MIT",
+    "size": 32433,
+    "url": "https://cdn.jsdelivr.net/npm/water.css@2.1.1/out/water.css"
+  },
+  {
+    "fileName": "weather-icons-v2.0.10.css",
+    "name": "Weather Icons",
+    "version": "v2.0.10",
+    "license": "MIT",
+    "size": 175995,
+    "url": "https://github.com/erikflowers/weather-icons/tree/master/css"
+  },
+  {
+    "fileName": "webgradients-v0.0.0.css",
+    "name": "Webgradients",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 22981,
+    "url": "https://github.com/itmeo/webgradients/blob/master/webgradients.css"
+  },
+  {
+    "fileName": "wenk-v1.0.8.css",
+    "name": "Wenk",
+    "version": "v1.0.8",
+    "license": "MIT",
+    "size": 3140,
+    "url": "https://github.com/tiaanduplessis/wenk/blob/master/dist/wenk.cssnext.css"
+  },
+  {
+    "fileName": "wikipedia-dark-v3.7.9.css",
+    "name": "Wikipedia Dark",
+    "version": "v3.7.9",
+    "license": "CC-BY-SA-4.0",
+    "size": 365990,
+    "url": "https://github.com/StylishThemes/Wikipedia-Dark/blob/master/wikipedia-dark.user.css"
+  },
+  {
+    "fileName": "windows-95-v0.0.0.css",
+    "name": "Windows 95",
+    "version": "v0.0.0",
+    "license": "MIT",
+    "size": 7329,
+    "url": "https://github.com/h01000110/windows-95/blob/master/_sass/_main.scss"
+  },
+  {
+    "fileName": "windows-98-v0.0.1.css",
+    "name": "Windows 98",
+    "version": "v0.0.1",
+    "license": "MIT",
+    "size": 4623,
+    "url": "https://github.com/yocontra/windows_98.css/blob/master/dist/win98.css"
+  },
+  {
+    "fileName": "wing-v1.0.0.css",
+    "name": "Wing",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "size": 8417,
+    "url": "https://github.com/kbrsh/wing/blob/master/dist/wing.css"
+  },
+  {
+    "fileName": "woah-v1.3.1.css",
+    "name": "Woah",
+    "version": "v1.3.1",
+    "license": "MIT",
+    "size": 19485,
+    "url": "https://github.com/joerez/Woah.css/blob/master/woah.css"
+  },
+  {
+    "fileName": "wtf-forms-v2.2.0.css",
+    "name": "WTF Forms",
+    "version": "v2.2.0",
+    "license": "MIT",
+    "size": 10613,
+    "url": "https://github.com/mdo/wtf-forms/blob/master/wtf-forms.css"
+  },
+  {
+    "fileName": "yacy-v4.1.2.css",
+    "name": "YaCy",
+    "version": "v4.1.2",
+    "license": "CC-BY-2.0",
+    "size": 23848,
+    "url": "https://github.com/yacy/yacy_webclient_yaml4/blob/master/yaml/forms/gray-theme.css"
+  },
+  {
+    "fileName": "yue-v1.1.1.css",
+    "name": "Yue",
+    "version": "v1.1.1",
+    "license": "MIT",
+    "size": 2700,
+    "url": "https://github.com/typlog/yue.css/blob/master/src/yue.css"
+  },
+  {
+    "fileName": "zotero-dark-theme-v0.0.0.css",
+    "name": "Zotero Dark Theme",
+    "version": "v0.0.0",
+    "license": "GPL-3.0",
+    "size": 13519,
+    "url": "https://github.com/Rosmaninho/Zotero-Dark-Theme/blob/main/userChrome.css"
+  }
+]
