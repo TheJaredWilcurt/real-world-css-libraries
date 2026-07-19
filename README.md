@@ -2,7 +2,7 @@
 
 Corpus of unminified, real-world, CSS files from open source projects.
 
-For use in minification tests and tooling benchmarks.
+For use in testing and benchmarking CSS tooling (minifiers, parsers, linters, pre/post-processors, etc).
 
 To see how various CSS Minification Tools perform when minifying these files:
 
@@ -84,6 +84,7 @@ Then you can then use the `metadata.json` file and loop over the files in the `l
 
 1. Ensure it is part of a public repo that has an open source license
 1. Create a file in the `libs` folder with the name lowercased and hyphenated, then a `-v` followed by the version number (if the source is not versioned, use `0.0.0`), then `.css`
+   * **Example:** `my-css-repo-v2.3.4.css` 
 1. The first line of the file must follow this pattern for automation to work:
    * `[Slash][Asterisk][Space][URL_TO_SOURCE][Space][Asterisk][Slash][New line]`
    * **Example:**
