@@ -1,9 +1,11 @@
 {
   "name": "real-world-css-libraries",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "proto": "proto pin node latest --resolve --tool-native && proto pin npm latest --resolve --tool-native && git status",
+    "outdated": "npm outdated",
     "bump": "npx --yes -- @jsdevtools/version-bump-prompt && npm i",
     "test": "node ./test.js"
   },
@@ -21,11 +23,11 @@
   "devEngines": {
     "runtime": {
       "name": "node",
-      "version": "26.3.1"
+      "version": "26.7.0"
     },
     "packageManager": {
       "name": "npm",
-      "version": "11.16.0"
+      "version": "12.0.2"
     }
   }
 }

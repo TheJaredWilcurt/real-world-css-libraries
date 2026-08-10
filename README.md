@@ -114,7 +114,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **220** files totaling **41.61MB** of unminified CSS.
+There are **221** files totaling **41.63MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -303,6 +303,7 @@ Library | License
 [Tachyons](https://github.com/tachyons-css/tachyons/blob/main/css/tachyons.css) | MIT
 [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards/blob/master/tailwind.css) | MIT
 [Tailwind](https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css) | MIT
+[Tent](https://github.com/sitetent/tentcss/blob/master/dist/tent.css) | MIT
 [The 50 Front-end Project #44](https://github.com/SudeepAcharjee/The-50-Front-end-Project/blob/main/44.Admin%20panel%20Dashboard/Admin%20Dashboard%20Panel/style.css) | BSL-1.0
 [The New CSS Reset](https://github.com/elad2412/the-new-css-reset/blob/main/css/reset.css) | MIT
 [Toast](https://github.com/daneden/Toast/blob/master/css/grid.css) | MIT

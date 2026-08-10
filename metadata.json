@@ -1480,6 +1480,14 @@
     "url": "https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.css"
   },
   {
+    "fileName": "tent-v1.4.3.css",
+    "name": "Tent",
+    "version": "v1.4.3",
+    "license": "MIT",
+    "size": 21592,
+    "url": "https://github.com/sitetent/tentcss/blob/master/dist/tent.css"
+  },
+  {
     "fileName": "the-50-front-end-project-44-v0.0.0.css",
     "name": "The 50 Front-end Project #44",
     "version": "v0.0.0",
