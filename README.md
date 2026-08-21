@@ -114,7 +114,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **221** files totaling **41.63MB** of unminified CSS.
+There are **222** files totaling **41.64MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -136,6 +136,7 @@ Library | License
 [Beer CSS](https://unpkg.com/beercss@4.0.21/dist/cdn/beer.css) | MIT
 [Blooger_Website](https://github.com/akashyap2013/Blooger_Website/blob/master/css/Style.css) | Apache-2.0
 [Blue-Topaz Obsidian](https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css) | MIT
+[Blueprint](https://github.com/blueprintcss/blueprint/blob/master/blueprint/screen.css) | MIT
 [Boilerform](https://github.com/Andy-set-studio/boilerform/blob/master/dist/css/boilerform.css) | MIT
 [Bojler](https://unpkg.com/@slicejack/bojler@3.2.1/dist/inline.css) | MIT
 [Bootplus](https://github.com/aozora/bootplus/blob/master/docs/assets/css/bootplus.css) | Apache-2.0 or GPL-2.0

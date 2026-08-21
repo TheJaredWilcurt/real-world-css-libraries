@@ -144,6 +144,14 @@
     "url": "https://raw.githubusercontent.com/PKM-er/Blue-Topaz_Obsidian-css/refs/heads/master/obsidian.css"
   },
   {
+    "fileName": "blueprint-v0.9.1.css",
+    "name": "Blueprint",
+    "version": "v0.9.1",
+    "license": "MIT",
+    "size": 11915,
+    "url": "https://github.com/blueprintcss/blueprint/blob/master/blueprint/screen.css"
+  },
+  {
     "fileName": "boilerform-v1.1.2.css",
     "name": "Boilerform",
     "version": "v1.1.2",
