@@ -1774,5 +1774,13 @@
     "license": "GPL-3.0",
     "size": 13519,
     "url": "https://github.com/Rosmaninho/Zotero-Dark-Theme/blob/main/userChrome.css"
+  },
+  {
+    "fileName": "zxx-lib-v2.10.0.css",
+    "name": "zxx.lib.css",
+    "version": "v2.10.0",
+    "license": "MIT",
+    "size": 11578,
+    "url": "https://github.com/zhangxinxu/zxx.lib.css/blob/master/zxx.lib.css"
   }
 ]

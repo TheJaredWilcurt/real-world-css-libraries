@@ -114,7 +114,7 @@ These libraries were explicitly not included because they lack a compatible lice
 
 ## Libraries included:
 
-There are **222** files totaling **41.64MB** of unminified CSS.
+There are **223** files totaling **41.65MB** of unminified CSS.
 
 Library | License
 :--     | :--
@@ -340,3 +340,4 @@ Library | License
 [YaCy](https://github.com/yacy/yacy_webclient_yaml4/blob/master/yaml/forms/gray-theme.css) | CC-BY-2.0
 [Yue](https://github.com/typlog/yue.css/blob/master/src/yue.css) | MIT
 [Zotero Dark Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme/blob/main/userChrome.css) | GPL-3.0
+[zxx.lib.css](https://github.com/zhangxinxu/zxx.lib.css/blob/master/zxx.lib.css) | MIT

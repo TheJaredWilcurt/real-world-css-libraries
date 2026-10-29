@@ -172,7 +172,7 @@ function updateMetaData (libraries) {
   }
   const contents = JSON.stringify(withoutSources, null, 2);
   const metaFile = join(__dirname, 'metadata.json');
-  writeFileSync(metaFile, contents);
+  writeFileSync(metaFile, contents + '\n');
 }
 
 const includeUrl = true;

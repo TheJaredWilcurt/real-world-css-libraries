@@ -86,7 +86,8 @@ const nameMap = {
   w3css: 'w3css',
   'wikipedia-dark': 'Wikipedia Dark',
   'wtf-forms': 'WTF Forms',
-  yacy: 'YaCy'
+  yacy: 'YaCy',
+  'zxx-lib': 'zxx.lib.css'
 };
 // Defaults to 'MIT'
 // Prefer identifiers listed here:
